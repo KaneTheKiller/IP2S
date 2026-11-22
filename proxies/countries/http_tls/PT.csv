@@ -1,3 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-193.136.192.57:443,HTTP_TLS,Portugal,PT,🇵🇹,0,low,No,"Fundacao para a Ciencia e a Tecnologia, I.P.",1104,No,,0/6
-195.22.25.125:443,HTTP_TLS,Portugal,PT,🇵🇹,0,low,No,Claranet Portugal S.A,1095,No,,0/6
+195.22.25.125:443,HTTP_TLS,Portugal,PT,🇵🇹,0,low,No,Claranet Portugal S.A,1476,Unknown,,
+193.137.38.135:443,HTTP_TLS,Portugal,PT,🇵🇹,0,low,No,"Fundacao para a Ciencia e a Tecnologia, I.P.",1530,Unknown,,
+195.246.238.180:443,HTTP_TLS,Portugal,PT,🇵🇹,0,low,No,Leya,1483,Unknown,,
+195.246.238.180:443,HTTP_TLS,Portugal,PT,🇵🇹,0,low,No,Leya,1502,Unknown,,
+94.126.171.252:443,HTTP_TLS,Portugal,PT,🇵🇹,0,low,No,"DMNS - DOMINIOS, S.A",1568,Not Checked,,
+195.22.25.125:443,HTTP_TLS,Portugal,PT,🇵🇹,0,low,No,Claranet Portugal S.A,1636,Not Checked,,
+94.126.171.252:443,HTTP_TLS,Portugal,PT,🇵🇹,0,low,No,"DMNS - DOMINIOS, S.A",1542,Not Checked,,
+193.137.38.135:443,HTTP_TLS,Portugal,PT,🇵🇹,0,low,No,"Fundacao para a Ciencia e a Tecnologia, I.P.",1611,Not Checked,,
+149.22.86.1:9443,HTTP_TLS,Portugal,PT,🇵🇹,47,medium,Yes,Datacamp Limited,2315,Not Checked,,
+149.22.86.1:9443,HTTP_TLS,Portugal,PT,🇵🇹,47,medium,Yes,Datacamp Limited,2320,Not Checked,,

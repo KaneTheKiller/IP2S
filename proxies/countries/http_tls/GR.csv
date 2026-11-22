@@ -1,10 +1,17 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-83.212.225.32:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,1384,Yes,137.2,6/6
-83.212.74.234:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,OKEANOS Hosted VM's,1346,Yes,135.1,6/6
-83.212.77.6:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,OKEANOS Hosted VM's,1350,Yes,138.7,6/6
-83.212.80.126:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,1612,Not Checked,,
-83.212.229.157:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,1645,Not Checked,,
-83.212.225.31:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,1653,Not Checked,,
-88.197.53.165:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National and Kapodistrian University of Athens,1645,Not Checked,,
-83.212.225.30:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,1613,Not Checked,,
-149.22.85.78:443,HTTP_TLS,Greece,GR,🇬🇷,46,medium,Yes,Datacamp Limited,1272,Not Checked,,
+88.197.53.165:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National and Kapodistrian University of Athens,2197,Not Checked,,
+83.212.80.126:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,2149,Not Checked,,
+83.212.229.157:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,2159,Not Checked,,
+83.212.225.30:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,2122,Not Checked,,
+83.212.77.6:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,OKEANOS Hosted VM's,2147,Not Checked,,
+83.212.225.31:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,2139,Not Checked,,
+83.212.74.234:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,OKEANOS Hosted VM's,2146,Not Checked,,
+83.212.225.32:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,2169,Not Checked,,
+83.212.80.126:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,2123,Not Checked,,
+83.212.229.157:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,2101,Not Checked,,
+83.212.225.31:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,2109,Not Checked,,
+83.212.225.32:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,2111,Not Checked,,
+88.197.53.165:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National and Kapodistrian University of Athens,2053,Not Checked,,
+83.212.74.234:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,OKEANOS Hosted VM's,2160,Not Checked,,
+83.212.225.30:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,National Infrastructures for Research and Technology S.A.,2164,Not Checked,,
+83.212.77.6:443,HTTP_TLS,Greece,GR,🇬🇷,0,low,No,OKEANOS Hosted VM's,2187,Not Checked,,
