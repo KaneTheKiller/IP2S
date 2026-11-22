@@ -56,24 +56,28 @@ const HTTP_SOURCES: &[&str] = &[
     "https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all",
     "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/datacenter.txt",
     "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/residential.txt",
+    "https://raw.githubusercontent.com/proxygenerator1/ProxyGenerator/main/MostStable/ALL.txt",
 ];
 const HTTP_TLS_SOURCES: &[&str] = &[
     "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=ipport&format=text&protocol=https",
     "https://api.proxyscrape.com/v2/?request=getproxies&protocol=https&timeout=10000&country=all",
     "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/datacenter.txt",
     "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/residential.txt",
+    "https://raw.githubusercontent.com/proxygenerator1/ProxyGenerator/main/MostStable/ALL.txt",
 ];
 const SOCKS4_SOURCES: &[&str] = &[
     "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=ipport&format=text&protocol=socks4",
     "https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4&timeout=10000&country=all",
     "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/datacenter.txt",
     "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/residential.txt",
+    "https://raw.githubusercontent.com/proxygenerator1/ProxyGenerator/main/MostStable/ALL.txt",
 ];
 const SOCKS5_SOURCES: &[&str] = &[
     "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=ipport&format=text&protocol=socks5",
     "https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5&timeout=10000&country=all",
     "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/datacenter.txt",
     "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/residential.txt",
+    "hhttps://raw.githubusercontent.com/proxygenerator1/ProxyGenerator/main/MostStable/ALL.txt",
 ];
 
 const JSON_PROXY_SOURCES: &[&str] =
