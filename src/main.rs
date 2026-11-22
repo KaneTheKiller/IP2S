@@ -54,40 +54,26 @@ const PROTOCOLS: [&str; 4] = ["http", "http_tls", "socks4", "socks5"];
 const HTTP_SOURCES: &[&str] = &[
     "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=ipport&format=text&protocol=http",
     "https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all",
-    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
-    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
-    "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
-    "https://raw.githubusercontent.com/iplocate/free-proxy-list/refs/heads/main/protocols/http.txt",
-    "https://cdn.jsdelivr.net/gh/proxifly/free-proxy-list@main/proxies/protocols/http/data.txt",
-    "https://www.proxy-list.download/api/v1/get?type=http",
+    "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/datacenter.txt",
+    "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/residential.txt",
 ];
 const HTTP_TLS_SOURCES: &[&str] = &[
     "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=ipport&format=text&protocol=https",
     "https://api.proxyscrape.com/v2/?request=getproxies&protocol=https&timeout=10000&country=all",
-    "https://raw.githubusercontent.com/proxyscrape/free-proxy-list/main/proxies/protocols/https.txt",
-    "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/https.txt",
-    "https://raw.githubusercontent.com/iplocate/free-proxy-list/refs/heads/main/protocols/https.txt",
-    "https://cdn.jsdelivr.net/gh/proxifly/free-proxy-list@main/proxies/protocols/https/data.txt",
+    "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/datacenter.txt",
+    "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/residential.txt",
 ];
 const SOCKS4_SOURCES: &[&str] = &[
     "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=ipport&format=text&protocol=socks4",
     "https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4&timeout=10000&country=all",
-    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt",
-    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt",
-    "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt",
-    "https://raw.githubusercontent.com/iplocate/free-proxy-list/refs/heads/main/protocols/socks4.txt",
-    "https://cdn.jsdelivr.net/gh/proxifly/free-proxy-list@main/proxies/protocols/socks4/data.txt",
-    "https://www.proxy-list.download/api/v1/get?type=socks4",
+    "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/datacenter.txt",
+    "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/residential.txt",
 ];
 const SOCKS5_SOURCES: &[&str] = &[
     "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=ipport&format=text&protocol=socks5",
     "https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5&timeout=10000&country=all",
-    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt",
-    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt",
-    "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks5.txt",
-    "https://raw.githubusercontent.com/iplocate/free-proxy-list/refs/heads/main/protocols/socks5.txt",
-    "https://cdn.jsdelivr.net/gh/proxifly/free-proxy-list@main/proxies/protocols/socks5/data.txt",
-    "https://www.proxy-list.download/api/v1/get?type=socks5",
+    "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/datacenter.txt",
+    "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/residential.txt",
 ];
 
 const JSON_PROXY_SOURCES: &[&str] =
