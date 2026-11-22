@@ -1,13 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.230.174.21:4153,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Opsicome SA De CV,453,Yes,234.8,6/6
-189.203.181.34:1080,SOCKS4,Mexico,MX,🇲🇽,0,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",246,Yes,221.9,6/6
-170.81.141.254:61437,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Nueva RED Internet De Mexico S De RL De CV,333,Yes,237.7,6/6
-45.230.174.21:4153,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Opsicome SA De CV,1442,Not Checked,,
-189.51.168.163:1080,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,7516,Not Checked,,
-189.51.168.163:1080,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,4369,Not Checked,,
-189.203.181.34:1080,SOCKS4,Mexico,MX,🇲🇽,0,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",1255,Not Checked,,
-189.202.204.53:1080,SOCKS4,Mexico,MX,🇲🇽,0,low,No,"Operbes, S.A. de C.V.",1411,Not Checked,,
-189.202.204.53:1080,SOCKS4,Mexico,MX,🇲🇽,0,low,No,"Operbes, S.A. de C.V.",1514,Not Checked,,
-187.157.30.202:4153,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Uninet S.A. de C.V.,1669,Not Checked,,
-170.81.140.79:61437,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Nueva RED Internet De Mexico S De RL De CV,3516,Not Checked,,
-187.210.136.88:4153,SOCKS4,Mexico,MX,🇲🇽,1,low,No,Uninet S.A. de C.V.,4568,Not Checked,,
+170.81.140.79:61437,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Nueva RED Internet De Mexico S De RL De CV,1258,Not Checked,,
+170.81.141.254:61437,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Nueva RED Internet De Mexico S De RL De CV,2283,Not Checked,,
+170.81.140.79:61437,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Nueva RED Internet De Mexico S De RL De CV,5394,Not Checked,,
+187.210.136.88:4153,SOCKS4,Mexico,MX,🇲🇽,1,low,No,Uninet S.A. de C.V.,3474,Not Checked,,
+187.157.30.202:4153,SOCKS4,Mexico,MX,🇲🇽,1,low,No,Uninet S.A. de C.V.,1529,Not Checked,,

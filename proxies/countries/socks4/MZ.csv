@@ -1,3 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-160.119.159.98:1080,SOCKS4,Mozambique,MZ,🇲🇿,0,low,No,Voiptech Limitada,1060,No,,0/6
-160.119.159.98:1080,SOCKS4,Mozambique,MZ,🇲🇿,0,low,No,Voiptech Limitada,2083,Not Checked,,
+196.40.117.114:5678,SOCKS4,Mozambique,MZ,🇲🇿,0,low,No,Intra Data Communication,3635,Not Checked,,
+196.40.117.114:5678,SOCKS4,Mozambique,MZ,🇲🇿,0,low,No,Intra Data Communication,6712,Not Checked,,
+102.211.109.158:1080,SOCKS4,Mozambique,MZ,🇲🇿,0,low,No,Netmoz Sociedade Unipessoal Lda,4708,Not Checked,,
+160.119.159.98:1080,SOCKS4,Mozambique,MZ,🇲🇿,0,low,No,Voiptech Limitada,1181,Not Checked,,

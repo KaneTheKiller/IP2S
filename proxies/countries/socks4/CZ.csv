@@ -1,5 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-217.197.151.182:5678,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,PREROV,610,Yes,95.6,6/6
-217.197.151.182:5678,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,PREROV,463,Yes,95.6,6/6
-109.69.211.18:1080,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,LAN servis s.r.o,3141,Not Checked,,
-46.174.23.200:5678,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,NoskaNet,1820,Not Checked,,
+188.120.198.182:1080,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,IP4ISP z.s.p.o. network,663,Unknown,,
+90.182.147.170:4145,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,"O2 Czech Republic, a.s.",759,Unknown,,
+91.199.137.149:2001,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,655,Unknown,,
+188.120.198.182:1080,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,IP4ISP z.s.p.o. network,1705,Not Checked,,
+91.199.137.149:2000,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,1308,Not Checked,,
+91.199.137.149:2000,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,1052,Not Checked,,
+91.199.137.149:2005,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,2918,Not Checked,,
+91.199.137.149:2015,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,1319,Not Checked,,
+91.199.137.149:2005,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,1240,Not Checked,,
+91.199.137.149:2001,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,1158,Not Checked,,
+91.199.137.149:2015,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,1252,Not Checked,,

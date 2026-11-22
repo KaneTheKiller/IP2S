@@ -1,4 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-217.169.223.18:1080,SOCKS4,Serbia,RS,🇷🇸,0,low,No,Orion Telekom Client Network,2712,Not Checked,,
-109.245.110.145:4145,SOCKS4,Serbia,RS,🇷🇸,4,low,No,CETIN Ltd. Belgrade,1680,Not Checked,,
-109.245.110.145:4145,SOCKS4,Serbia,RS,🇷🇸,4,low,No,CETIN Ltd. Belgrade,2738,Not Checked,,
+109.245.110.145:4145,SOCKS4,Serbia,RS,🇷🇸,0,low,No,CETIN Ltd. Belgrade,1984,Not Checked,,
+95.140.118.34:1080,SOCKS4,Serbia,RS,🇷🇸,0,low,No,Orion Telekom Network,5172,Not Checked,,
+217.16.130.83:4145,SOCKS4,Serbia,RS,🇷🇸,0,low,No,Jotel,5819,Not Checked,,
+109.245.110.145:4145,SOCKS4,Serbia,RS,🇷🇸,0,low,No,CETIN Ltd. Belgrade,5004,Not Checked,,
+95.140.118.34:1080,SOCKS4,Serbia,RS,🇷🇸,0,low,No,Orion Telekom Network,1018,Not Checked,,
+185.190.154.121:4145,SOCKS4,Serbia,RS,🇷🇸,3,low,No,TELEKOM-SRBIJA,4768,Not Checked,,
+185.190.154.121:4145,SOCKS4,Serbia,RS,🇷🇸,3,low,No,TELEKOM-SRBIJA,674,Not Checked,,

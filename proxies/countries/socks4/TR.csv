@@ -1,9 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-213.142.159.108:11080,SOCKS4,Turkey,TR,🇹🇷,0,low,No,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,699,Yes,50.1,6/6
-213.142.159.108:11080,SOCKS4,Turkey,TR,🇹🇷,0,low,No,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,611,Yes,50.1,6/6
-176.235.182.90:1080,SOCKS4,Turkey,TR,🇹🇷,2,low,No,Superonline Iletisim Hizmetleri A.S.,2937,Not Checked,,
-88.247.31.164:4153,SOCKS4,Turkey,TR,🇹🇷,2,low,No,Turk Telekomunikasyon A.S,638,Not Checked,,
-88.247.31.164:4153,SOCKS4,Turkey,TR,🇹🇷,2,low,No,Turk Telekomunikasyon A.S,1712,Not Checked,,
-176.236.37.132:1080,SOCKS4,Turkey,TR,🇹🇷,17,low,No,Superonline Iletisim Hizmetleri A.S.,1914,Not Checked,,
-176.88.166.190:5678,SOCKS4,Turkey,TR,🇹🇷,17,low,No,Superonline Iletisim Hizmetleri A.S.,4944,Not Checked,,
-176.236.37.132:1080,SOCKS4,Turkey,TR,🇹🇷,17,low,No,Superonline Iletisim Hizmetleri A.S.,1760,Not Checked,,
+188.132.150.252:1080,SOCKS4,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,873,Not Checked,,
+188.132.150.252:1080,SOCKS4,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,862,Not Checked,,
+88.247.31.164:4153,SOCKS4,Turkey,TR,🇹🇷,2,low,No,Turk Telekomunikasyon A.S,1004,Not Checked,,
+88.245.138.87:1080,SOCKS4,Turkey,TR,🇹🇷,2,low,No,Turk Telekomunikasyon A.S,884,Not Checked,,
+176.235.182.90:1080,SOCKS4,Turkey,TR,🇹🇷,2,low,No,Superonline Iletisim Hizmetleri A.S.,859,Not Checked,,
+85.105.194.113:4153,SOCKS4,Turkey,TR,🇹🇷,2,low,No,Turk Telekomunikasyon A.S,5043,Not Checked,,
+88.247.31.164:4153,SOCKS4,Turkey,TR,🇹🇷,2,low,No,Turk Telekomunikasyon A.S,4305,Not Checked,,
+85.105.194.113:4153,SOCKS4,Turkey,TR,🇹🇷,2,low,No,Turk Telekomunikasyon A.S,994,Not Checked,,
+79.98.32.110:1080,SOCKS4,Turkey,TR,🇹🇷,9,low,No,High Speed For Internet Services L.L.C,2955,Not Checked,,
+149.86.146.205:1080,SOCKS4,Turkey,TR,🇹🇷,15,low,No,Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi,2942,Not Checked,,
+176.236.37.132:1080,SOCKS4,Turkey,TR,🇹🇷,25,medium,No,Superonline Iletisim Hizmetleri A.S.,2957,Not Checked,,
+176.88.166.190:5678,SOCKS4,Turkey,TR,🇹🇷,25,medium,No,Superonline Iletisim Hizmetleri A.S.,5966,Not Checked,,
+176.88.166.190:5678,SOCKS4,Turkey,TR,🇹🇷,25,medium,No,Superonline Iletisim Hizmetleri A.S.,4959,Not Checked,,
+212.252.73.120:1080,SOCKS4,Turkey,TR,🇹🇷,33,medium,No,GUNEYDOGUTELEKOM,893,Not Checked,,
