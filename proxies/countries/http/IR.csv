@@ -1,11 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-91.92.134.21:3128,HTTP,Iran,IR,🇮🇷,0,low,No,Iran Telecommunication Company PJS,2550,Yes,10.8,6/6
-185.95.152.38:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Data Pardaz Afraz,4144,Not Checked,,
-46.249.124.244:1390,HTTP,Iran,IR,🇮🇷,0,low,Yes,Didehban Net Company,6573,Not Checked,,
-46.34.166.250:18080,HTTP,Iran,IR,🇮🇷,0,low,No,Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS,6233,Not Checked,,
-37.228.139.149:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Parsan Lin Co. PJS,6985,Not Checked,,
-46.100.44.35:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Iran Telecommunication Company PJS,11093,Not Checked,,
-37.191.76.218:7060,HTTP,Iran,IR,🇮🇷,0,low,No,Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS,9101,Not Checked,,
-5.202.191.225:8080,HTTP,Iran,IR,🇮🇷,0,low,No,PTS-Network,6244,Not Checked,,
-80.191.46.62:1090,HTTP,Iran,IR,🇮🇷,0,low,No,Telecommunication Company of Iran,11907,Not Checked,,
-79.127.30.250:8080,HTTP,Iran,IR,🇮🇷,3,low,No,Asiatech Data Transmission company,4085,Not Checked,,
+185.100.45.93:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Fara Ertebat Mabna PJS,4256,Unknown,,
+31.14.124.45:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Afranet,13230,Not Checked,,
+185.109.244.69:8080,HTTP,Iran,IR,🇮🇷,3,low,No,Asiatech Data Transmission company,17135,Not Checked,,

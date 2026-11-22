@@ -1,7 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-24.152.53.68:999,HTTP,Guatemala,GT,🇬🇹,0,low,No,TV CABLE UNIVERSAL S.A,1197,Yes,229.5,6/6
-45.5.119.17:999,HTTP,Guatemala,GT,🇬🇹,0,low,No,Ufinet Panama S.A.,3442,Yes,222.5,6/6
-181.119.103.237:999,HTTP,Guatemala,GT,🇬🇹,0,low,No,Ufinet Panama S.A.,7924,Not Checked,,
-186.33.5.13:8080,HTTP,Guatemala,GT,🇬🇹,1,low,No,Ufinet Panama S.A.,9879,Not Checked,,
-181.119.177.229:999,HTTP,Guatemala,GT,🇬🇹,1,low,No,Ufinet Panama S.A.,7476,Not Checked,,
-181.119.111.59:999,HTTP,Guatemala,GT,🇬🇹,1,low,No,Ufinet Panama S.A.,5398,Not Checked,,
+138.117.231.133:999,HTTP,Guatemala,GT,🇬🇹,0,low,No,Fibernet S.A,2226,Unknown,,
+38.199.88.1:999,HTTP,Guatemala,GT,🇬🇹,0,low,No,"INVERSIONES Y NEGOCIOS IOT DE GUATEMALA, SOCIEDAD ANÓNIMA",685,Unknown,,
+200.119.141.114:999,HTTP,Guatemala,GT,🇬🇹,0,low,No,Latin American and Caribbean IP address Regional Registry,9692,Not Checked,,
+190.122.185.170:999,HTTP,Guatemala,GT,🇬🇹,0,low,No,Comunicaciones Metropolitanas Cablecolor,13081,Not Checked,,
+186.33.5.13:8080,HTTP,Guatemala,GT,🇬🇹,1,low,No,Ufinet Panama S.A.,4759,Not Checked,,
+181.119.111.59:999,HTTP,Guatemala,GT,🇬🇹,1,low,No,Ufinet Panama S.A.,7027,Not Checked,,
+186.33.0.203:999,HTTP,Guatemala,GT,🇬🇹,1,low,No,Ufinet Panama S.A.,16152,Not Checked,,

@@ -1,16 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.12.238.164:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,1360,Yes,117.8,6/6
-31.131.248.51:3129,HTTP,Russia,RU,🇷🇺,0,low,No,JSC Selectel,1185,Yes,80.9,6/6
-155.212.223.36:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,1088,Yes,88.5,6/6
-155.212.223.36:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,1040,Yes,88.5,6/6
-176.208.93.34:8989,HTTP,Russia,RU,🇷🇺,0,low,No,PJSC Rostelecom,3237,Yes,104.2,6/6
-109.111.179.206:1090,HTTP,Russia,RU,🇷🇺,0,low,No,Sibirskie Seti Ltd.,9425,Not Checked,,
-188.246.186.54:8080,HTTP,Russia,RU,🇷🇺,0,low,No,OOO WestCall Ltd,13380,Not Checked,,
-217.76.46.230:8080,HTTP,Russia,RU,🇷🇺,0,low,No,OOO NIIR-RadioNet,9352,Not Checked,,
-95.66.142.11:8080,HTTP,Russia,RU,🇷🇺,0,low,No,"Limited Liability Company ""Infocentre""",7265,Not Checked,,
-80.78.243.231:3128,HTTP,Russia,RU,🇷🇺,0,low,No,"""Domain names registrar REG.RU"", Ltd",5759,Not Checked,,
-5.180.242.216:8080,HTTP,Russia,RU,🇷🇺,0,low,No,"Timer, LLC",5987,Not Checked,,
-87.225.98.158:81,HTTP,Russia,RU,🇷🇺,1,low,No,Rostelecom networks,10693,Not Checked,,
-109.252.226.30:8080,HTTP,Russia,RU,🇷🇺,2,low,No,Moscow Local Telephone Network (OAO MGTS),14437,Not Checked,,
-78.29.36.220:8080,HTTP,Russia,RU,🇷🇺,11,low,No,Intersvyaz-2 JSC,3404,Not Checked,,
-46.17.43.219:7890,HTTP,Russia,RU,🇷🇺,25,medium,No,LLC BAXET,2676,Not Checked,,
+193.124.33.31:2052,HTTP,Russia,RU,🇷🇺,0,low,No,Ilia Baikov,1488,Unknown,,
+193.124.33.31:2052,HTTP,Russia,RU,🇷🇺,0,low,No,Ilia Baikov,1364,Unknown,,
+92.39.129.50:1256,HTTP,Russia,RU,🇷🇺,0,low,No,OOO WestCall Ltd,19803,Not Checked,,
+88.204.19.8:7080,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""ER-Telecom Holding""",9107,Not Checked,,
+92.39.129.50:1256,HTTP,Russia,RU,🇷🇺,0,low,No,OOO WestCall Ltd,17675,Not Checked,,
