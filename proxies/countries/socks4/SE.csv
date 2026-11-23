@@ -1,4 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-81.228.44.187:65530,SOCKS4,Sweden,SE,🇸🇪,0,low,No,Telia Company AB,718,Unknown,,
-188.150.229.60:5678,SOCKS4,Sweden,SE,🇸🇪,1,low,No,TELE2-BROADBAND,570,Not Checked,,
-188.150.229.60:5678,SOCKS4,Sweden,SE,🇸🇪,1,low,No,TELE2-BROADBAND,534,Not Checked,,
+81.228.44.187:65530,SOCKS4,Sweden,SE,🇸🇪,0,low,No,Telia Company AB,1434,Not Checked,,
+81.228.44.187:65530,SOCKS4,Sweden,SE,🇸🇪,0,low,No,Telia Company AB,1519,Not Checked,,
+46.183.21.158:4444,SOCKS4,Sweden,SE,🇸🇪,0,low,No,South Park Networks LLC,9619,Not Checked,,
+188.150.229.60:5678,SOCKS4,Sweden,SE,🇸🇪,1,low,No,TELE2-BROADBAND,445,Not Checked,,
+188.150.229.60:5678,SOCKS4,Sweden,SE,🇸🇪,1,low,No,TELE2-BROADBAND,429,Not Checked,,

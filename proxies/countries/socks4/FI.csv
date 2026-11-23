@@ -1,5 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.62.212.153:1080,SOCKS4,Finland,FI,🇫🇮,8,low,No,Hetzner Online GmbH,13775,Not Checked,,
-46.62.212.153:1080,SOCKS4,Finland,FI,🇫🇮,8,low,No,Hetzner Online GmbH,4567,Not Checked,,
-95.216.117.50:9050,SOCKS4,Finland,FI,🇫🇮,8,low,No,Hetzner Online GmbH,1889,Not Checked,,
-95.81.93.93:1080,SOCKS4,Finland,FI,🇫🇮,16,low,No,First Server Limited,5611,Not Checked,,
+46.62.212.153:1080,SOCKS4,Finland,FI,🇫🇮,8,low,No,Hetzner Online GmbH,4494,Not Checked,,

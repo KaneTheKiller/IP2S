@@ -1,6 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-170.81.140.79:61437,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Nueva RED Internet De Mexico S De RL De CV,1258,Not Checked,,
-170.81.141.254:61437,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Nueva RED Internet De Mexico S De RL De CV,2283,Not Checked,,
-170.81.140.79:61437,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Nueva RED Internet De Mexico S De RL De CV,5394,Not Checked,,
-187.210.136.88:4153,SOCKS4,Mexico,MX,🇲🇽,1,low,No,Uninet S.A. de C.V.,3474,Not Checked,,
-187.157.30.202:4153,SOCKS4,Mexico,MX,🇲🇽,1,low,No,Uninet S.A. de C.V.,1529,Not Checked,,
+45.174.243.96:5678,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Sistemas Y Soluciones De Campeche SAS De CV,436,Unknown,,
+189.202.204.53:1080,SOCKS4,Mexico,MX,🇲🇽,0,low,No,"Operbes, S.A. de C.V.",558,Unknown,,
+45.230.174.21:4153,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Opsicome SA De CV,4574,Not Checked,,
+187.210.136.88:4153,SOCKS4,Mexico,MX,🇲🇽,1,low,No,Uninet S.A. de C.V.,502,Not Checked,,
+189.203.181.34:1080,SOCKS4,Mexico,MX,🇲🇽,1,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",279,Not Checked,,
+189.203.181.34:1080,SOCKS4,Mexico,MX,🇲🇽,1,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",274,Not Checked,,

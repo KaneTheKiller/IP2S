@@ -1,5 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-102.0.35.254:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile & Fixed Internet,1862,Not Checked,,
-154.79.251.168:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile Broadband,1379,Not Checked,,
-102.211.146.103:1080,SOCKS4,Kenya,KE,🇰🇪,4,low,No,Unwired Communications Limited,6152,Not Checked,,
-41.139.147.86:5678,SOCKS4,Kenya,KE,🇰🇪,6,low,No,Safaricom Limited,1157,Not Checked,,
+102.0.35.254:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile & Fixed Internet,4120,Not Checked,,
+102.0.35.254:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile & Fixed Internet,4139,Not Checked,,
+154.79.246.102:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile & Fixed Internet,4312,Not Checked,,
+154.79.251.168:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile Broadband,2538,Not Checked,,
+102.211.146.103:1080,SOCKS4,Kenya,KE,🇰🇪,4,low,No,Unwired Communications Limited,3442,Not Checked,,
+102.211.146.103:1080,SOCKS4,Kenya,KE,🇰🇪,4,low,No,Unwired Communications Limited,6254,Not Checked,,
+41.139.147.86:5678,SOCKS4,Kenya,KE,🇰🇪,6,low,No,Safaricom Limited,2601,Not Checked,,
+102.222.145.8:1080,SOCKS4,Kenya,KE,🇰🇪,11,low,No,Blue Streak Horizons Net Limited,3257,Not Checked,,
