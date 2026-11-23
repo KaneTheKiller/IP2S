@@ -1,5 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-171.25.158.95:1080,SOCKS5,Sweden,SE,🇸🇪,0,low,No,Patrik Lagerman,1432,Unknown,,
-171.25.158.95:1080,SOCKS5,Sweden,SE,🇸🇪,0,low,No,Patrik Lagerman,1481,Unknown,,
-46.246.12.31:1080,SOCKS5,Sweden,SE,🇸🇪,0,low,Yes,GleSYS AB,2449,Not Checked,,
-46.246.12.31:1080,SOCKS5,Sweden,SE,🇸🇪,0,low,Yes,GleSYS AB,2480,Not Checked,,
+171.25.158.95:1080,SOCKS5,Sweden,SE,🇸🇪,0,low,No,Patrik Lagerman,938,Unknown,,
+171.25.158.95:1080,SOCKS5,Sweden,SE,🇸🇪,0,low,No,Patrik Lagerman,1353,Unknown,,
+46.183.21.158:4444,SOCKS5,Sweden,SE,🇸🇪,0,low,No,South Park Networks LLC,497,Unknown,,
+46.246.12.31:1080,SOCKS5,Sweden,SE,🇸🇪,0,low,Yes,GleSYS AB,6786,Not Checked,,
+46.246.12.31:1080,SOCKS5,Sweden,SE,🇸🇪,0,low,Yes,GleSYS AB,5505,Not Checked,,
+80.78.25.87:9050,SOCKS5,Sweden,SE,🇸🇪,0,low,No,Materialism s.r.l.,16186,Not Checked,,
