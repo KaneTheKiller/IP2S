@@ -1,2 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-88.218.206.170:5432,SOCKS5,Poland,PL,🇵🇱,0,low,No,Skhron OU,7361,No,,0/7
+88.218.206.170:22,SOCKS5,Poland,PL,🇵🇱,0,low,No,Skhron OU,8737,Not Checked,,
+57.128.249.250:9052,SOCKS5,Poland,PL,🇵🇱,39,medium,No,OVH SAS,950,Not Checked,,
+145.239.94.103:10084,SOCKS5,Poland,PL,🇵🇱,39,medium,Yes,OVH SAS,721,Not Checked,,
+57.128.249.250:9052,SOCKS5,Poland,PL,🇵🇱,39,medium,No,OVH SAS,3195,Not Checked,,
+145.239.94.103:10084,SOCKS5,Poland,PL,🇵🇱,39,medium,Yes,OVH SAS,722,Not Checked,,

@@ -1,2 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-110.235.247.154:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,COGETEL Co,5333,No,,0/6
+203.189.135.140:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,COGETEL Co,1550,Unknown,,
+43.230.193.154:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,COGETEL Co,1601,Unknown,,
+110.235.240.223:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,COGETEL Co,5979,Not Checked,,
+203.189.135.73:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,COGETEL Co,4584,Not Checked,,
+203.189.150.126:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,COGETEL Co,4606,Not Checked,,
+124.248.177.43:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,"COGETEL Co., Ltd",2522,Not Checked,,
+202.62.50.52:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,"COGETEL Co., Ltd",3535,Not Checked,,
+110.235.247.154:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,COGETEL Co,5582,Not Checked,,
+203.189.135.73:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,COGETEL Co,1918,Not Checked,,
+103.197.241.209:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,"COGETEL Co., Ltd",5223,Not Checked,,
+103.206.68.241:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,"COGETEL Co., Ltd",2499,Not Checked,,
+203.189.152.79:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,ONLINE,4296,Not Checked,,
+202.62.42.167:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,"COGETEL Co., Ltd",8680,Not Checked,,
+103.197.241.209:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,"COGETEL Co., Ltd",6545,Not Checked,,
+203.189.152.79:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,ONLINE,2432,Not Checked,,

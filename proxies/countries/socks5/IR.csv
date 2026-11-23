@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-87.107.68.231:1081,SOCKS5,Iran,IR,🇮🇷,0,low,Yes,Soroush Rasanheh Company Ltd,5716,Yes,4.3,8/8
+94.183.150.152:1080,SOCKS5,Iran,IR,🇮🇷,0,low,No,"Nahor Hadish Design and Architecture Co., Ltd",1871,Not Checked,,

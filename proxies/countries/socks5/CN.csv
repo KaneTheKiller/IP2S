@@ -1,6 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-39.104.16.201:8080,SOCKS5,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,7788,No,,0/6
-47.92.219.102:8085,SOCKS5,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,7779,No,,0/6
-47.92.82.167:3129,SOCKS5,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,7775,No,,0/6
-47.92.152.43:8443,SOCKS5,China,CN,🇨🇳,0,low,Yes,Hangzhou Alibaba Advertising Co,7798,No,,0/6
-8.130.90.177:999,SOCKS5,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",7783,No,,0/6
+218.77.50.79:6666,SOCKS5,China,CN,🇨🇳,0,low,No,Chinanet,1250,Unknown,,
+222.71.205.37:1083,SOCKS5,China,CN,🇨🇳,0,low,No,China Telecom (Group),1435,Unknown,,
+222.71.205.37:1083,SOCKS5,China,CN,🇨🇳,0,low,No,China Telecom (Group),2963,Not Checked,,
+47.107.48.145:8020,SOCKS5,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,13569,Not Checked,,

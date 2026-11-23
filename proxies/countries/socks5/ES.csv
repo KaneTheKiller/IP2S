@@ -1,2 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-212.231.230.141:18500,SOCKS5,Spain,ES,🇪🇸,0,low,No,Xtra Telecom S.A,5764,Yes,122.0,8/8
+85.117.248.36:1080,SOCKS5,Spain,ES,🇪🇸,0,low,No,Connecta 1876 SLU,773,Unknown,,
+143.47.59.115:9050,SOCKS5,Spain,ES,🇪🇸,1,low,No,Oracle Corporation,9749,Not Checked,,
+143.47.59.115:9050,SOCKS5,Spain,ES,🇪🇸,1,low,No,Oracle Corporation,7669,Not Checked,,

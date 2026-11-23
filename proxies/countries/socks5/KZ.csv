@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-170.168.101.28:1080,SOCKS5,Kazakhstan,KZ,🇰🇿,0,low,No,JSC Transtelecom,1734,Yes,208.0,4/8
+188.0.153.235:1080,SOCKS5,Kazakhstan,KZ,🇰🇿,0,low,No,Jusan Mobile JSC,2011,Not Checked,,
