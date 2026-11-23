@@ -1,3 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-91.212.213.135:443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Proservice LLC,2194,Not Checked,,
-91.212.213.135:443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Proservice LLC,2287,Not Checked,,
+91.212.213.135:443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Proservice LLC,5862,Not Checked,,
+91.212.213.135:443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Proservice LLC,7520,Not Checked,,
