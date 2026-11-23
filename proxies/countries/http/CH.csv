@@ -1,2 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.191.239.248:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Geronimo Ramirez Computer Network,1000,Unknown,,
+185.191.239.248:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Geronimo Ramirez Computer Network,3361,Unknown,,
+91.92.155.207:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,3782,Unknown,,
+185.191.239.248:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Geronimo Ramirez Computer Network,1538,Unknown,,
+74.242.169.16:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Microsoft Corporation,14520,Not Checked,,
+91.92.155.207:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,9446,Not Checked,,

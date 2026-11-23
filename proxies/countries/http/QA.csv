@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-37.211.65.11:8080,HTTP,Qatar,QA,🇶🇦,14,low,No,Ooredoo Q.S.C,17972,Not Checked,,
+78.101.198.138:8080,HTTP,Qatar,QA,🇶🇦,5,low,No,Ooredoo Q.S.C.,10272,Not Checked,,

@@ -1,4 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-61.216.156.222:60808,HTTP,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",9372,Not Checked,,
-114.34.145.135:8080,HTTP,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",11482,Not Checked,,
-220.134.5.4:8080,HTTP,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",7966,Not Checked,,
+210.61.216.63:60808,HTTP,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",12344,Not Checked,,
+220.134.5.4:8080,HTTP,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",8022,Not Checked,,
+164.52.11.194:18080,HTTP,Taiwan,TW,🇹🇼,0,low,No,"CDS Global Cloud Co., Ltd",13427,Not Checked,,

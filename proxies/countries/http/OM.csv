@@ -1,0 +1,2 @@
+Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
+38.54.116.95:80,HTTP,Oman,OM,🇴🇲,0,low,Yes,Kaopu Cloud HK Limited,13525,Not Checked,,

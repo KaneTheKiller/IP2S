@@ -1,3 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.200.84.4:3128,HTTP,Kazakhstan,KZ,🇰🇿,33,medium,No,ITGLOBAL,4000,Not Checked,,
-185.200.84.4:3128,HTTP,Kazakhstan,KZ,🇰🇿,33,medium,No,ITGLOBAL,3930,Not Checked,,
+91.185.20.162:8080,HTTP,Kazakhstan,KZ,🇰🇿,0,low,No,TTC Network,3929,Unknown,,
+31.130.153.132:3128,HTTP,Kazakhstan,KZ,🇰🇿,0,low,No,"JSC ""TIMEWEB""",3135,Unknown,,

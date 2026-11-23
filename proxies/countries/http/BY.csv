@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-93.125.3.22:8080,HTTP,Belarus,BY,🇧🇾,2,low,No,Unitary enterprise A1,14539,Not Checked,,
+91.149.142.139:8080,HTTP,Belarus,BY,🇧🇾,0,low,No,Cosmos TV Jllc,16593,Not Checked,,
