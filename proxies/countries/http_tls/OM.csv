@@ -1,2 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-79.72.36.217:443,HTTP_TLS,Oman,OM,🇴🇲,2,low,No,Oracle Corporation,3002,Not Checked,,
+85.154.30.91:443,HTTP_TLS,Oman,OM,🇴🇲,0,low,No,Oman Telecommunications Company (S.A.O.G),2822,Not Checked,,
+85.154.30.90:443,HTTP_TLS,Oman,OM,🇴🇲,0,low,No,Oman Telecommunications Company (S.A.O.G),3327,Not Checked,,
+85.154.30.91:443,HTTP_TLS,Oman,OM,🇴🇲,0,low,No,Oman Telecommunications Company (S.A.O.G),2801,Not Checked,,
+85.154.30.90:443,HTTP_TLS,Oman,OM,🇴🇲,0,low,No,Oman Telecommunications Company (S.A.O.G),2868,Not Checked,,
