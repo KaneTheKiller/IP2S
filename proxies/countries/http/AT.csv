@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-194.182.187.78:3128,HTTP,Austria,AT,🇦🇹,0,low,No,Akenes SA,10125,Not Checked,,
+37.252.188.101:3128,HTTP,Austria,AT,🇦🇹,0,low,No,IPAX GmbH,4001,Unknown,,

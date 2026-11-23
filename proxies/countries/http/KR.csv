@@ -1,4 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-13.209.65.136:14262,HTTP,South Korea,KR,🇰🇷,1,low,No,Amazon Technologies Inc.,1722,Not Checked,,
-13.209.65.136:39209,HTTP,South Korea,KR,🇰🇷,1,low,No,Amazon Technologies Inc.,1686,Not Checked,,
-217.142.139.207:8085,HTTP,South Korea,KR,🇰🇷,1,low,No,Oracle Corporation,2081,Not Checked,,
+119.28.233.241:3128,HTTP,South Korea,KR,🇰🇷,0,low,No,ComsenzNet,1594,Unknown,,
+13.209.65.136:27085,HTTP,South Korea,KR,🇰🇷,1,low,No,Amazon Technologies Inc.,5303,Not Checked,,
+54.117.6.131:14899,HTTP,South Korea,KR,🇰🇷,2,low,No,"Amazon.com, Inc.",7156,Not Checked,,

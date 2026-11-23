@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.30.245.153:8080,HTTP,Italy,IT,🇮🇹,0,low,No,Serverplan s.r.l.,6391,Not Checked,,
+85.208.200.185:8081,HTTP,Italy,IT,🇮🇹,0,low,No,HAL Service SpA,19360,Not Checked,,

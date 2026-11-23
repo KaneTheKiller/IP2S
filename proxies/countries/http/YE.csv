@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-209.198.150.223:8085,HTTP,Yemen,YE,🇾🇪,0,low,No,Starlink Nrbiken1,6628,Yes,278.8,7/7
+9.246.71.179:8080,HTTP,Yemen,YE,🇾🇪,1,low,No,Space Exploration Technologies Corporation,7894,Not Checked,,

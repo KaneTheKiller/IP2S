@@ -1,5 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-170.245.132.81:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,"MACHADO BAEZ, NERY JAVIER",5279,Unknown,,
-45.177.16.135:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,MSW S.A.,12999,Not Checked,,
-37.230.57.239:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,Startelecom S.A.,12912,Not Checked,,
-170.83.243.40:9991,HTTP,Paraguay,PY,🇵🇾,0,low,No,Ufinet Panama S.A.,13298,Not Checked,,
+181.78.27.34:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,Ufinet Paraguay S.A,5449,Unknown,,
+181.78.27.39:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,Ufinet Paraguay S.A,9035,Not Checked,,
+181.79.217.1:8080,HTTP,Paraguay,PY,🇵🇾,0,low,No,Ufinet Paraguay S.A,15204,Not Checked,,
+45.177.16.134:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,MSW S.A.,7045,Not Checked,,
+181.121.65.62:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,Telecel S.A.,12613,Not Checked,,
+181.121.65.62:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,Telecel S.A.,15730,Not Checked,,
+45.177.16.132:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,MSW S.A.,11282,Not Checked,,

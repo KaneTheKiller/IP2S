@@ -1,11 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-147.161.246.34:11676,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,7689,Unknown,,
-147.161.246.34:11525,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,7770,Unknown,,
-147.161.246.34:10521,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,7711,Unknown,,
-147.161.246.34:12327,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,7414,Unknown,,
-147.161.246.34:12845,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,7569,Unknown,,
-185.191.239.248:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Geronimo Ramirez Computer Network,1111,Unknown,,
-62.220.129.81:8080,HTTP,Switzerland,CH,🇨🇭,0,low,No,"Saitis Network, N.Desir",10187,Not Checked,,
-91.92.155.207:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,10181,Not Checked,,
-34.65.99.32:3128,HTTP,Switzerland,CH,🇨🇭,2,low,No,Google LLC,2432,Not Checked,,
-34.65.99.32:3128,HTTP,Switzerland,CH,🇨🇭,2,low,No,Google LLC,1948,Not Checked,,
+185.191.239.248:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Geronimo Ramirez Computer Network,1000,Unknown,,
