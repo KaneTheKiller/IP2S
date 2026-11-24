@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.62.212.153:1080,SOCKS4,Finland,FI,🇫🇮,8,low,No,Hetzner Online GmbH,4494,Not Checked,,
+46.62.212.153:1080,SOCKS4,Finland,FI,🇫🇮,9,low,No,Hetzner Online GmbH,10473,Not Checked,,

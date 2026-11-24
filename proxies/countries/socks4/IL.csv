@@ -1,4 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-31.168.143.90:1080,SOCKS4,Israel,IL,🇮🇱,0,low,No,BEZEQ-INTERNATIONAL,1799,Not Checked,,
-31.168.143.90:1080,SOCKS4,Israel,IL,🇮🇱,0,low,No,BEZEQ-INTERNATIONAL,1646,Not Checked,,
-84.242.51.241:4145,SOCKS4,Israel,IL,🇮🇱,0,low,No,Mada Al-Arab General Services Company,5812,Not Checked,,
+51.85.44.149:17583,SOCKS4,Israel,IL,🇮🇱,2,low,No,"Amazon.com, Inc.",754,Not Checked,,
+51.85.44.162:28280,SOCKS4,Israel,IL,🇮🇱,2,low,No,"Amazon.com, Inc.",952,Not Checked,,
+51.85.44.162:22160,SOCKS4,Israel,IL,🇮🇱,2,low,No,"Amazon.com, Inc.",768,Not Checked,,

@@ -1,7 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,495,Unknown,,
-192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,490,Unknown,,
-38.242.156.163:9050,SOCKS4,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,7162,Not Checked,,
-38.242.158.117:9050,SOCKS4,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,10313,Not Checked,,
-52.56.143.248:3128,SOCKS4,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,456,Not Checked,,
-159.65.27.1:10000,SOCKS4,United Kingdom,GB,🇬🇧,51,medium,No,"DigitalOcean, LLC",326,Not Checked,,
+192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,607,Unknown,,
+192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,608,Unknown,,
+52.56.143.248:3128,SOCKS4,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,524,Not Checked,,

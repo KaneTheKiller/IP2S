@@ -1,2 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-95.182.107.210:1080,SOCKS4,Kazakhstan,KZ,🇰🇿,0,low,No,TOO Kainar-Media,1731,Not Checked,,
+95.182.107.210:1080,SOCKS4,Kazakhstan,KZ,🇰🇿,0,low,No,TOO Kainar-Media,3272,Not Checked,,
+213.155.29.25:1080,SOCKS4,Kazakhstan,KZ,🇰🇿,0,low,No,Newserverlife LLC,8379,Not Checked,,
+213.155.29.25:1080,SOCKS4,Kazakhstan,KZ,🇰🇿,0,low,No,Newserverlife LLC,2254,Not Checked,,

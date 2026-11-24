@@ -1,7 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.215.53.205:3629,SOCKS4,Armenia,AM,🇦🇲,0,low,No,Fnet LLC,1879,Not Checked,,
-185.215.53.205:3629,SOCKS4,Armenia,AM,🇦🇲,0,low,No,Fnet LLC,6013,Not Checked,,
-185.215.53.217:3629,SOCKS4,Armenia,AM,🇦🇲,0,low,No,Fnet LLC,2922,Not Checked,,
-37.186.66.36:3629,SOCKS4,Armenia,AM,🇦🇲,0,low,No,GNC-Alfa CJSC,3894,Not Checked,,
-212.34.230.102:4153,SOCKS4,Armenia,AM,🇦🇲,7,low,No,Ucom CJSC,4861,Not Checked,,
-212.34.230.102:4153,SOCKS4,Armenia,AM,🇦🇲,7,low,No,Ucom CJSC,3803,Not Checked,,
+185.215.53.205:3629,SOCKS4,Armenia,AM,🇦🇲,0,low,No,Fnet LLC,4213,Not Checked,,
+185.215.53.129:3629,SOCKS4,Armenia,AM,🇦🇲,0,low,No,Fnet LLC,4196,Not Checked,,
+37.186.66.36:3629,SOCKS4,Armenia,AM,🇦🇲,0,low,No,GNC-Alfa CJSC,947,Not Checked,,
+130.193.123.34:5678,SOCKS4,Armenia,AM,🇦🇲,0,low,No,GNC,2939,Not Checked,,
+81.16.9.222:3629,SOCKS4,Armenia,AM,🇦🇲,0,low,No,Ucom CJSC,6997,Not Checked,,
+212.34.230.102:4153,SOCKS4,Armenia,AM,🇦🇲,5,low,No,Ucom CJSC,914,Not Checked,,
