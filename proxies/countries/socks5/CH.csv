@@ -1,3 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-91.92.155.207:1080,SOCKS5,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,12257,Not Checked,,
-91.92.155.207:1080,SOCKS5,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,8541,Not Checked,,
+91.92.155.207:1080,SOCKS5,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,9400,Not Checked,,
+91.92.155.207:1080,SOCKS5,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,8442,Not Checked,,
+16.18.22.211:46102,SOCKS5,Switzerland,CH,🇨🇭,2,low,No,"Amazon.com, Inc.",669,Not Checked,,

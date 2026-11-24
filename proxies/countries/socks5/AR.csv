@@ -1,2 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-190.225.152.38:1080,SOCKS5,Argentina,AR,🇦🇷,0,low,No,Telecom Argentina S.A.,5832,Not Checked,,
+38.17.6.228:1080,SOCKS5,Argentina,AR,🇦🇷,0,low,No,CESOP,3141,Not Checked,,
+190.225.152.38:1080,SOCKS5,Argentina,AR,🇦🇷,0,low,No,Telecom Argentina S.A.,7689,Not Checked,,
+190.225.152.38:1080,SOCKS5,Argentina,AR,🇦🇷,0,low,No,Telecom Argentina S.A.,12064,Not Checked,,
+45.169.106.140:1086,SOCKS5,Argentina,AR,🇦🇷,0,low,No,VOS SRL,2196,Not Checked,,

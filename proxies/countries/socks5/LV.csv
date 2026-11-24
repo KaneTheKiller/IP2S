@@ -1,2 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-195.13.182.211:8080,SOCKS5,Latvia,LV,🇱🇻,0,low,No,SIA Tet,1374,Unknown,,
+195.13.182.212:8080,SOCKS5,Latvia,LV,🇱🇻,0,low,No,SIA Tet,9610,Not Checked,,
+195.13.182.212:443,SOCKS5,Latvia,LV,🇱🇻,0,low,No,SIA Tet,4438,Not Checked,,
+195.13.182.211:8080,SOCKS5,Latvia,LV,🇱🇻,0,low,No,SIA Tet,6849,Not Checked,,

@@ -1,7 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-200.4.107.137:1080,SOCKS5,Brazil,BR,🇧🇷,0,low,No,Alciole Telecom,1444,Unknown,,
-186.219.210.255:7080,SOCKS5,Brazil,BR,🇧🇷,0,low,No,Minas Telecomunicacoes E Informatica Ltda ME,6000,Not Checked,,
-186.26.95.249:61445,SOCKS5,Brazil,BR,🇧🇷,0,low,No,Nosso Wi-fi Ltda,3874,Not Checked,,
-186.219.210.255:7080,SOCKS5,Brazil,BR,🇧🇷,0,low,No,Minas Telecomunicacoes E Informatica Ltda ME,6011,Not Checked,,
-186.233.119.183:1080,SOCKS5,Brazil,BR,🇧🇷,0,low,No,Golden Link,8223,Not Checked,,
-177.69.119.114:1080,SOCKS5,Brazil,BR,🇧🇷,2,low,No,ALGAR TELECOM S/A,2106,Not Checked,,
+186.26.95.249:61445,SOCKS5,Brazil,BR,🇧🇷,0,low,No,Nosso Wi-fi Ltda,6152,Not Checked,,
+186.233.119.183:1080,SOCKS5,Brazil,BR,🇧🇷,0,low,No,Golden Link,4237,Not Checked,,
+45.6.13.4:1080,SOCKS5,Brazil,BR,🇧🇷,0,low,No,G-link Fibra,5035,Not Checked,,
+177.69.198.219:1080,SOCKS5,Brazil,BR,🇧🇷,2,low,No,ALGAR TELECOM S/A,2185,Not Checked,,
