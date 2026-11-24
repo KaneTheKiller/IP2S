@@ -1,9 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.21.186.252:1080,SOCKS4,Italy,IT,🇮🇹,0,low,No,Planetel srl,610,Unknown,,
-91.192.25.158:4145,SOCKS4,Italy,IT,🇮🇹,0,low,No,T&T Tecnologie e Telecomunicazioni Srl,5230,Not Checked,,
-84.247.236.86:48293,SOCKS4,Italy,IT,🇮🇹,0,low,No,Mynet S.R.L.,5893,Not Checked,,
-212.43.119.1:1080,SOCKS4,Italy,IT,🇮🇹,0,low,No,MICSO-WADSL,3823,Not Checked,,
-91.192.25.158:4145,SOCKS4,Italy,IT,🇮🇹,0,low,No,T&T Tecnologie e Telecomunicazioni Srl,2292,Not Checked,,
-212.43.119.1:1080,SOCKS4,Italy,IT,🇮🇹,0,low,No,MICSO-WADSL,3816,Not Checked,,
-5.95.121.180:4153,SOCKS4,Italy,IT,🇮🇹,2,low,No,Vodafone,8016,Not Checked,,
-5.95.121.180:4153,SOCKS4,Italy,IT,🇮🇹,2,low,No,Vodafone,1810,Not Checked,,
+46.21.186.252:1080,SOCKS4,Italy,IT,🇮🇹,0,low,No,Planetel srl,392,Unknown,,
+91.192.25.158:4145,SOCKS4,Italy,IT,🇮🇹,0,low,No,T&T Tecnologie e Telecomunicazioni Srl,2175,Not Checked,,
+91.192.25.37:80,SOCKS4,Italy,IT,🇮🇹,0,low,No,T&T Tecnologie e Telecomunicazioni Srl,1917,Not Checked,,
+212.43.119.1:1080,SOCKS4,Italy,IT,🇮🇹,0,low,No,MICSO-WADSL,2657,Not Checked,,

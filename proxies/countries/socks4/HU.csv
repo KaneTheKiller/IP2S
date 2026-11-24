@@ -1,6 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-109.61.117.11:1080,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Dravanet,703,Unknown,,
-109.61.117.11:1080,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Dravanet,715,Unknown,,
-46.107.230.122:1080,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Szatmarnet,716,Unknown,,
-91.147.235.162:4153,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Magyar Telekom plc.,1411,Not Checked,,
-178.48.13.177:80,SOCKS4,Hungary,HU,🇭🇺,5,low,No,UPC,794,Not Checked,,
+91.147.235.162:4153,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Magyar Telekom plc.,856,Unknown,,
+46.107.230.122:1080,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Szatmarnet,1762,Not Checked,,
+109.61.117.11:1080,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Dravanet,5685,Not Checked,,
+109.61.117.11:1080,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Dravanet,3615,Not Checked,,
+46.107.230.122:1080,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Szatmarnet,2744,Not Checked,,

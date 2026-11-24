@@ -1,10 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-189.202.204.53:1080,SOCKS4,Mexico,MX,🇲🇽,0,low,No,"Operbes, S.A. de C.V.",399,Unknown,,
-45.174.243.96:5678,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Sistemas Y Soluciones De Campeche SAS De CV,1435,Not Checked,,
-45.174.243.96:5678,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Sistemas Y Soluciones De Campeche SAS De CV,3469,Not Checked,,
-45.230.174.21:4153,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Opsicome SA De CV,5508,Not Checked,,
-45.230.174.21:4153,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Opsicome SA De CV,7609,Not Checked,,
-189.202.204.53:1080,SOCKS4,Mexico,MX,🇲🇽,0,low,No,"Operbes, S.A. de C.V.",2483,Not Checked,,
-170.81.141.254:61437,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Nueva RED Internet De Mexico S De RL De CV,5455,Not Checked,,
-187.210.136.88:4153,SOCKS4,Mexico,MX,🇲🇽,1,low,No,Uninet S.A. de C.V.,1469,Not Checked,,
-78.12.246.160:31136,SOCKS4,Mexico,MX,🇲🇽,2,low,No,"Amazon.com, Inc.",250,Not Checked,,
+45.230.174.21:4153,SOCKS4,Mexico,MX,🇲🇽,0,low,No,Opsicome SA De CV,548,Unknown,,
+187.210.136.88:4153,SOCKS4,Mexico,MX,🇲🇽,1,low,No,Uninet S.A. de C.V.,4610,Not Checked,,
