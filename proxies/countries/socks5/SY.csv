@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-91.144.9.132:1080,SOCKS5,Syria,SY,🇸🇾,0,low,No,STE Public Data Network Backbone and LIR,5555,Not Checked,,
-91.144.9.131:1080,SOCKS5,Syria,SY,🇸🇾,0,low,No,STE Public Data Network Backbone and LIR,4386,Not Checked,,
+91.144.9.134:1080,SOCKS5,Syria,SY,🇸🇾,0,low,No,STE Public Data Network Backbone and LIR,8235,Not Checked,,

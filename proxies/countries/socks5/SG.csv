@@ -1,9 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.248.228.166:5555,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Akari Networks Limited,916,Unknown,,
-103.248.228.166:5555,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Akari Networks Limited,888,Unknown,,
-8.219.122.8:9999,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",2540,Not Checked,,
-43.134.39.221:10000,SOCKS5,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2111,Not Checked,,
-43.134.39.221:10000,SOCKS5,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1589,Not Checked,,
-13.215.184.250:36382,SOCKS5,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,891,Not Checked,,
-128.199.202.122:1080,SOCKS5,Singapore,SG,🇸🇬,50,medium,No,"DigitalOcean, LLC",936,Not Checked,,
-128.199.202.122:1080,SOCKS5,Singapore,SG,🇸🇬,50,medium,No,"DigitalOcean, LLC",917,Not Checked,,
+45.38.210.105:9050,SOCKS5,Singapore,SG,🇸🇬,0,low,No,2E TELEKOMUNIKASYON LTD,2758,Unknown,,
+43.160.245.155:8080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,9153,Not Checked,,
+128.199.202.122:1080,SOCKS5,Singapore,SG,🇸🇬,50,medium,No,"DigitalOcean, LLC",1145,Not Checked,,

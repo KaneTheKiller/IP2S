@@ -1,5 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.100.85.64:1080,SOCKS5,Romania,RO,🇷🇴,0,low,No,FlokiNET ehf,1990,Not Checked,,
-85.122.120.46:30000,SOCKS5,Romania,RO,🇷🇴,0,low,Yes,STYLISH BY A&L SRL,4570,Not Checked,,
-45.13.38.213:1080,SOCKS5,Romania,RO,🇷🇴,19,low,Yes,Unmanaged LTD,877,Not Checked,,
-45.13.38.213:1080,SOCKS5,Romania,RO,🇷🇴,19,low,Yes,Unmanaged LTD,882,Not Checked,,
+185.100.85.64:1080,SOCKS5,Romania,RO,🇷🇴,0,low,No,FlokiNET ehf,1057,Unknown,,
+45.13.38.213:1080,SOCKS5,Romania,RO,🇷🇴,19,low,Yes,Unmanaged LTD,658,Not Checked,,
+45.13.38.213:1080,SOCKS5,Romania,RO,🇷🇴,19,low,Yes,Unmanaged LTD,666,Not Checked,,

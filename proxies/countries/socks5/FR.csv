@@ -1,7 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-82.180.146.251:10800,SOCKS5,France,FR,🇫🇷,0,low,No,Contabo Asia Private Limited,1246,Unknown,,
-82.21.200.222:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Association YORKHOST,6836,Not Checked,,
-170.233.72.43:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Dauphin Telecom,4797,Not Checked,,
-77.221.152.59:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Aeza Group LLC,3975,Not Checked,,
-147.45.42.90:9050,SOCKS5,France,FR,🇫🇷,0,low,No,Aeza Group LLC,10427,Not Checked,,
-77.221.152.59:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Aeza Group LLC,4590,Not Checked,,
+82.180.146.251:10800,SOCKS5,France,FR,🇫🇷,0,low,No,Contabo Asia Private Limited,1527,Unknown,,
+82.180.146.251:10800,SOCKS5,France,FR,🇫🇷,0,low,No,Contabo Asia Private Limited,1161,Unknown,,
+170.233.72.43:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Dauphin Telecom,7736,Not Checked,,
+82.21.200.23:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Association YORKHOST,6618,Not Checked,,
+82.65.237.58:9050,SOCKS5,France,FR,🇫🇷,5,low,No,Proxad / Free SAS,11652,Not Checked,,
