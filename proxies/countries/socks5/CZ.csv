@@ -1,9 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-176.62.229.17:1080,SOCKS5,Czechia,CZ,🇨🇿,0,low,Yes,IP4ISP z.s.p.o,961,Unknown,,
-91.199.137.149:2005,SOCKS5,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,621,Unknown,,
-91.199.137.149:2005,SOCKS5,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,988,Unknown,,
-91.199.137.149:2000,SOCKS5,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,1299,Unknown,,
-91.199.137.149:2015,SOCKS5,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,1524,Not Checked,,
-78.80.149.106:1080,SOCKS5,Czechia,CZ,🇨🇿,0,low,No,T-Mobile Czech Republic a.s.,2753,Not Checked,,
-91.199.137.149:2000,SOCKS5,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,1597,Not Checked,,
-176.62.229.17:1080,SOCKS5,Czechia,CZ,🇨🇿,0,low,Yes,IP4ISP z.s.p.o,1760,Not Checked,,
+91.199.137.149:2010,SOCKS5,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,829,Unknown,,
+91.199.137.149:2010,SOCKS5,Czechia,CZ,🇨🇿,0,low,No,SmartApe OU,830,Unknown,,
+193.165.115.78:1080,SOCKS5,Czechia,CZ,🇨🇿,1,low,No,PODA a.s.,1521,Not Checked,,

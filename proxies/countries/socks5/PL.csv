@@ -1,4 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-109.95.175.64:1080,SOCKS5,Poland,PL,🇵🇱,0,low,No,TVK ELtronik Brodnica,773,Unknown,,
-83.219.248.46:20420,SOCKS5,Poland,PL,🇵🇱,0,low,No,Ilia Baikov,902,Unknown,,
-57.128.249.250:9052,SOCKS5,Poland,PL,🇵🇱,39,medium,No,OVH SAS,1524,Not Checked,,
+109.95.175.64:1080,SOCKS5,Poland,PL,🇵🇱,0,low,No,TVK ELtronik Brodnica,1138,Unknown,,
+109.95.175.64:1080,SOCKS5,Poland,PL,🇵🇱,0,low,No,TVK ELtronik Brodnica,2057,Not Checked,,
