@@ -1,7 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-129.205.246.123:443,HTTP_TLS,Botswana,BW,🇧🇼,0,low,No,BOTSWANA FIBRE NETWORKS (Proprietary) Limited,2845,Not Checked,,
-129.205.246.123:443,HTTP_TLS,Botswana,BW,🇧🇼,0,low,No,BOTSWANA FIBRE NETWORKS (Proprietary) Limited,3420,Not Checked,,
-168.167.220.27:443,HTTP_TLS,Botswana,BW,🇧🇼,5,low,No,Botswana Telecommunications Corporation,2942,Not Checked,,
-168.167.220.28:443,HTTP_TLS,Botswana,BW,🇧🇼,5,low,No,Botswana Telecommunications Corporation,2913,Not Checked,,
-168.167.220.27:443,HTTP_TLS,Botswana,BW,🇧🇼,5,low,No,Botswana Telecommunications Corporation,3079,Not Checked,,
-168.167.220.28:443,HTTP_TLS,Botswana,BW,🇧🇼,5,low,No,Botswana Telecommunications Corporation,3056,Not Checked,,
+129.205.246.123:443,HTTP_TLS,Botswana,BW,🇧🇼,0,low,No,BOTSWANA FIBRE NETWORKS (Proprietary) Limited,3094,Not Checked,,
+129.205.246.123:443,HTTP_TLS,Botswana,BW,🇧🇼,0,low,No,BOTSWANA FIBRE NETWORKS (Proprietary) Limited,3098,Not Checked,,
+168.167.220.27:443,HTTP_TLS,Botswana,BW,🇧🇼,5,low,No,Botswana Telecommunications Corporation,3326,Not Checked,,
+168.167.220.28:443,HTTP_TLS,Botswana,BW,🇧🇼,5,low,No,Botswana Telecommunications Corporation,3137,Not Checked,,
+168.167.220.27:443,HTTP_TLS,Botswana,BW,🇧🇼,5,low,No,Botswana Telecommunications Corporation,3158,Not Checked,,
+168.167.220.28:443,HTTP_TLS,Botswana,BW,🇧🇼,5,low,No,Botswana Telecommunications Corporation,3181,Not Checked,,
