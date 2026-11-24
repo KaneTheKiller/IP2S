@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-88.222.65.45:3128,HTTP,Republic of Lithuania,LT,🇱🇹,0,low,No,Init,5150,Unknown,,
+88.222.65.45:3128,HTTP,Republic of Lithuania,LT,🇱🇹,0,low,No,Init,13715,Not Checked,,

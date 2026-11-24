@@ -1,5 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-5.198.179.172:10800,HTTP,Iran,IR,🇮🇷,0,low,No,Iran Telecommunication Company PJS,6716,Unknown,,
-5.198.179.172:10800,HTTP,Iran,IR,🇮🇷,0,low,No,Iran Telecommunication Company PJS,7470,Unknown,,
-217.219.83.186:2222,HTTP,Iran,IR,🇮🇷,0,low,No,Iran Telecommunication Company PJS,18543,Not Checked,,
-185.95.152.38:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Data Pardaz Afraz,25898,Not Checked,,
+5.200.72.62:3128,HTTP,Iran,IR,🇮🇷,0,low,No,Bahar Samaneh Shargh,2007,Unknown,,
+5.198.179.172:10800,HTTP,Iran,IR,🇮🇷,0,low,No,Iran Telecommunication Company PJS,14465,Not Checked,,
+5.198.179.172:10800,HTTP,Iran,IR,🇮🇷,0,low,No,Iran Telecommunication Company PJS,11271,Not Checked,,
+31.14.124.45:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Afranet,11070,Not Checked,,
+85.9.87.26:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Web Gostaran Bandar Company,17378,Not Checked,,
+185.126.5.223:8080,HTTP,Iran,IR,🇮🇷,0,low,No,PISHGAMAN,8787,Not Checked,,

@@ -1,5 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.8.148.81:8085,HTTP,Italy,IT,🇮🇹,0,low,No,DIGITAL TELECOMMUNICATION SERVICES 3th,5632,Unknown,,
-85.235.150.219:3128,HTTP,Italy,IT,🇮🇹,0,low,No,Aruba S.p.A.,11850,Not Checked,,
-85.208.200.185:8081,HTTP,Italy,IT,🇮🇹,0,low,No,HAL Service SpA,14105,Not Checked,,
-84.8.248.36:3128,HTTP,Italy,IT,🇮🇹,1,low,No,Oracle Corporation,18363,Not Checked,,
+85.208.200.185:8081,HTTP,Italy,IT,🇮🇹,0,low,No,HAL Service SpA,12285,Not Checked,,
+84.8.248.36:3128,HTTP,Italy,IT,🇮🇹,1,low,No,Oracle Corporation,13051,Not Checked,,
+79.52.108.2:8081,HTTP,Italy,IT,🇮🇹,1,low,No,INTERBUSINESS,13185,Not Checked,,

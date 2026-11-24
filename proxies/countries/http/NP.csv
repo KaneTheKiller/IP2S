@@ -1,4 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-110.34.1.178:7777,HTTP,Nepal,NP,🇳🇵,0,low,No,Subisu Cablenet,9385,Not Checked,,
-36.253.25.10:8181,HTTP,Nepal,NP,🇳🇵,1,low,No,Ncell Pty. Ltd.,6348,Not Checked,,
-202.166.220.40:8080,HTTP,Nepal,NP,🇳🇵,3,low,No,WorldLink Communications,20131,Not Checked,,
+202.166.220.40:8080,HTTP,Nepal,NP,🇳🇵,3,low,No,WorldLink Communications,5451,Not Checked,,

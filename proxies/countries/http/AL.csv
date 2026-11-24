@@ -1,2 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-217.24.245.58:8079,HTTP,Albania,AL,🇦🇱,0,low,No,ONE ALBANIA SH.A.,15114,Unknown,,
+79.106.229.208:8989,HTTP,Albania,AL,🇦🇱,0,low,No,DUR-ISP,5160,Unknown,,
+79.106.165.246:8989,HTTP,Albania,AL,🇦🇱,0,low,No,TEST0629,13467,Not Checked,,
+188.164.218.209:8080,HTTP,Albania,AL,🇦🇱,0,low,No,Vodafone Albania Sh.A.,13525,Not Checked,,

@@ -1,2 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-200.39.139.65:999,HTTP,Chile,CL,🇨🇱,0,low,No,Iconex SPA,14637,Unknown,,
+45.232.211.130:999,HTTP,Chile,CL,🇨🇱,0,low,No,Nanotik Telecomunicaciones SPA,7303,Unknown,,
+160.19.203.241:999,HTTP,Chile,CL,🇨🇱,0,low,No,Makronet Consulting Tecnologia E Informatica Limitada,12119,Not Checked,,
+45.161.112.227:999,HTTP,Chile,CL,🇨🇱,0,low,No,Servicios E Inversiones Villasolis Ltda.,11639,Not Checked,,
+45.162.132.7:999,HTTP,Chile,CL,🇨🇱,0,low,No,Lara Ingenieria EN Tecnologia Y Telecomunicaciones Limitada,20823,Not Checked,,
+167.249.30.64:999,HTTP,Chile,CL,🇨🇱,0,low,No,Globalconnect SPA,10300,Not Checked,,
+45.4.0.12:999,HTTP,Chile,CL,🇨🇱,0,low,No,Tlink SPA,10809,Not Checked,,
+200.111.104.59:3128,HTTP,Chile,CL,🇨🇱,1,low,No,Entel Chile S.A.,14778,Not Checked,,
+38.7.195.136:999,HTTP,Chile,CL,🇨🇱,54,medium,No,Grupo ZGH SpA,3914,Not Checked,,

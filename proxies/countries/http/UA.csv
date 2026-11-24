@@ -1,6 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-91.210.117.184:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,Miratel Ltd,11805,Unknown,,
-195.226.213.254:8888,HTTP,Ukraine,UA,🇺🇦,0,low,No,Private Enterprise KTV AIDA,12500,Unknown,,
-195.66.197.169:39724,HTTP,Ukraine,UA,🇺🇦,0,low,No,"LIMITED LIABILITY COMPANY ""INFOLINK""",11895,Unknown,,
-62.122.207.173:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,Uteam LTD,9638,Unknown,,
-176.105.220.74:3129,HTTP,Ukraine,UA,🇺🇦,0,low,No,RPC HomeNet Ltd.,17968,Not Checked,,
+176.97.56.76:3128,HTTP,Ukraine,UA,🇺🇦,0,low,No,"PP ""Zastava Plus""",2353,Unknown,,
+195.226.213.254:8888,HTTP,Ukraine,UA,🇺🇦,0,low,No,Private Enterprise KTV AIDA,7695,Not Checked,,
+62.122.207.173:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,Uteam LTD,11584,Not Checked,,
+91.219.252.107:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,LLC MONOLITH.NET,8058,Not Checked,,

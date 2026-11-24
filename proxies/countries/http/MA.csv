@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-105.156.177.237:30001,HTTP,Morocco,MA,🇲🇦,1,low,No,ADSL Maroc telecom,1595,Not Checked,,
-105.156.177.237:30001,HTTP,Morocco,MA,🇲🇦,1,low,No,ADSL Maroc telecom,1474,Not Checked,,
+105.156.189.227:30001,HTTP,Morocco,MA,🇲🇦,1,low,No,ADSL Maroc telecom,8881,Not Checked,,

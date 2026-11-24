@@ -1,3 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.177.16.137:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,MSW S.A.,9882,Unknown,,
-181.94.197.37:8080,HTTP,Paraguay,PY,🇵🇾,0,low,No,Núcleo S.A.,13128,Unknown,,
+190.93.179.125:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,Multi Link S.A.,6506,Unknown,,
+45.177.16.130:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,MSW S.A.,10482,Not Checked,,
+45.177.16.134:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,MSW S.A.,8270,Not Checked,,
