@@ -1,4 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.1.105.10:4153,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,TM TECHNOLOGY SERVICES SDN BHD,8165,Not Checked,,
-175.144.198.226:31694,SOCKS4,Malaysia,MY,🇲🇾,1,low,No,TM TECHNOLOGY SERVICES SDN BHD,8149,Not Checked,,
-175.139.200.17:4153,SOCKS4,Malaysia,MY,🇲🇾,1,low,No,TM TECHNOLOGY SERVICES SDN BHD,2015,Not Checked,,
+45.117.228.97:4145,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,E-world Communication SDN BHD,6080,Not Checked,,
+45.117.228.97:4145,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,E-world Communication SDN BHD,3179,Not Checked,,
+103.1.105.10:4153,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,TM TECHNOLOGY SERVICES SDN BHD,3940,Not Checked,,
+103.58.16.106:4145,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,E-world Communication SDN BHD,1145,Not Checked,,
+103.1.105.10:4153,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,TM TECHNOLOGY SERVICES SDN BHD,885,Not Checked,,
+175.139.200.17:4153,SOCKS4,Malaysia,MY,🇲🇾,1,low,No,TM TECHNOLOGY SERVICES SDN BHD,2936,Not Checked,,
+175.139.201.193:4153,SOCKS4,Malaysia,MY,🇲🇾,1,low,No,TM TECHNOLOGY SERVICES SDN BHD,6020,Not Checked,,
+175.139.201.193:4153,SOCKS4,Malaysia,MY,🇲🇾,1,low,No,TM TECHNOLOGY SERVICES SDN BHD,1884,Not Checked,,

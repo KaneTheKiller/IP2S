@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-34.246.183.20:12397,SOCKS4,Ireland,IE,🇮🇪,6,low,No,Amazon Technologies Inc.,556,Not Checked,,
+108.131.152.118:8771,SOCKS4,Ireland,IE,🇮🇪,11,low,No,AT&T Corp.,712,Not Checked,,

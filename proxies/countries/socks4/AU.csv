@@ -1,4 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-203.206.235.153:50042,SOCKS4,Australia,AU,🇦🇺,0,low,No,iiNet Limited,1118,Not Checked,,
-168.138.9.147:1080,SOCKS4,Australia,AU,🇦🇺,4,low,No,Oracle Corporation,8391,Not Checked,,
-168.138.9.147:1080,SOCKS4,Australia,AU,🇦🇺,4,low,No,Oracle Corporation,5316,Not Checked,,
+16.51.53.116:24904,SOCKS4,Australia,AU,🇦🇺,0,low,No,Amazon.com,800,Unknown,,
+16.176.232.186:36681,SOCKS4,Australia,AU,🇦🇺,2,low,No,"Amazon.com, Inc.",680,Not Checked,,
+168.138.9.147:1080,SOCKS4,Australia,AU,🇦🇺,4,low,No,Oracle Corporation,879,Not Checked,,

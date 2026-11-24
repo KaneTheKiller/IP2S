@@ -1,7 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-195.13.182.212:443,SOCKS4,Latvia,LV,🇱🇻,0,low,No,SIA Tet,10159,Not Checked,,
-31.170.19.5:4153,SOCKS4,Latvia,LV,🇱🇻,100,very_high,No,Sia Nano IT,3622,Not Checked,,
-31.170.19.1:4153,SOCKS4,Latvia,LV,🇱🇻,100,very_high,No,Sia Nano IT,5621,Not Checked,,
-31.170.19.5:4153,SOCKS4,Latvia,LV,🇱🇻,100,very_high,No,Sia Nano IT,3526,Not Checked,,
-31.170.17.225:4153,SOCKS4,Latvia,LV,🇱🇻,100,very_high,No,Sia Nano IT,1626,Not Checked,,
-31.170.17.141:4153,SOCKS4,Latvia,LV,🇱🇻,100,very_high,No,Sia Nano IT,1525,Not Checked,,
+31.170.19.1:4153,SOCKS4,Latvia,LV,🇱🇻,100,very_high,No,Sia Nano IT,660,Not Checked,,
+31.170.19.4:4153,SOCKS4,Latvia,LV,🇱🇻,100,very_high,No,Sia Nano IT,4680,Not Checked,,
+31.170.17.225:4153,SOCKS4,Latvia,LV,🇱🇻,100,very_high,No,Sia Nano IT,625,Not Checked,,
+31.170.17.225:4153,SOCKS4,Latvia,LV,🇱🇻,100,very_high,No,Sia Nano IT,621,Not Checked,,
+31.170.18.129:4153,SOCKS4,Latvia,LV,🇱🇻,100,very_high,No,Sia Nano IT,4755,Not Checked,,

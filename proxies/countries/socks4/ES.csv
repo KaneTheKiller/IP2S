@@ -1,5 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-84.236.185.247:61710,SOCKS4,Spain,ES,🇪🇸,0,low,No,Aire Networks Del Mediterraneo SL Unipersonal,5538,Not Checked,,
-185.130.219.12:4153,SOCKS4,Spain,ES,🇪🇸,0,low,No,customers4,3490,Not Checked,,
-83.56.15.57:5678,SOCKS4,Spain,ES,🇪🇸,1,low,No,Telefonica de Espana SAU,7623,Not Checked,,
-35.43.85.195:27951,SOCKS4,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",393,Not Checked,,
+84.236.185.247:61710,SOCKS4,Spain,ES,🇪🇸,0,low,No,Aire Networks Del Mediterraneo SL Unipersonal,577,Unknown,,
+185.130.219.11:4153,SOCKS4,Spain,ES,🇪🇸,0,low,No,customers4,519,Unknown,,
+84.236.185.247:61710,SOCKS4,Spain,ES,🇪🇸,0,low,No,Aire Networks Del Mediterraneo SL Unipersonal,5681,Not Checked,,
+83.56.15.57:5678,SOCKS4,Spain,ES,🇪🇸,1,low,No,Telefonica de Espana SAU,1621,Not Checked,,
+35.43.246.3:44022,SOCKS4,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",506,Not Checked,,
+35.43.246.3:42679,SOCKS4,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",506,Not Checked,,

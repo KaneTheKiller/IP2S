@@ -1,4 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-81.18.90.43:4153,SOCKS4,Romania,RO,🇷🇴,0,low,No,RDSNET,582,Unknown,,
-92.86.92.126:42740,SOCKS4,Romania,RO,🇷🇴,0,low,No,Romtelecom,666,Unknown,,
-109.166.207.162:3629,SOCKS4,Romania,RO,🇷🇴,0,low,No,Orange Romania Network,5766,Not Checked,,
+85.122.120.119:30016,SOCKS4,Romania,RO,🇷🇴,0,low,Yes,STYLISH BY A&L SRL,6348,Not Checked,,
+194.50.50.100:1080,SOCKS4,Romania,RO,🇷🇴,0,low,No,Alter-NET SRL,4803,Not Checked,,
+92.86.92.126:42740,SOCKS4,Romania,RO,🇷🇴,0,low,No,Romtelecom,2869,Not Checked,,
+81.12.157.98:5678,SOCKS4,Romania,RO,🇷🇴,0,low,No,Vodafone RO,2816,Not Checked,,
+81.18.90.43:4153,SOCKS4,Romania,RO,🇷🇴,0,low,No,RDSNET,5865,Not Checked,,
+81.12.169.254:4153,SOCKS4,Romania,RO,🇷🇴,1,low,No,Vodafone RO,5061,Not Checked,,

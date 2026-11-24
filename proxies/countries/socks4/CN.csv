@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-116.172.234.154:1181,SOCKS4,China,CN,🇨🇳,0,low,No,China Unicom CHINA169 Network,2471,Not Checked,,
-123.112.158.121:6666,SOCKS4,China,CN,🇨🇳,0,low,No,China Unicom Beijing Province Network,5140,Not Checked,,
+116.147.56.246:7890,SOCKS4,China,CN,🇨🇳,0,low,No,China Unicom CHINA169 Network,1764,Not Checked,,

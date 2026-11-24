@@ -1,5 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-93.184.7.217:1080,SOCKS4,Palestine,PS,🇵🇸,0,low,No,BCI Telecommunication & Advanced Technology Company,7727,Not Checked,,
-93.184.7.26:1080,SOCKS4,Palestine,PS,🇵🇸,0,low,No,BNET network,5755,Not Checked,,
-213.6.68.210:4145,SOCKS4,Palestine,PS,🇵🇸,5,low,No,Palestine Telecommunications Company,1626,Not Checked,,
-103.231.105.158:4145,SOCKS4,Palestine,PS,🇵🇸,9,low,No,Palestine Telecommunications Company,7826,Not Checked,,
+93.184.7.217:1080,SOCKS4,Palestine,PS,🇵🇸,0,low,No,BCI Telecommunication & Advanced Technology Company,720,Unknown,,
+93.184.7.26:1080,SOCKS4,Palestine,PS,🇵🇸,0,low,No,BNET network,709,Unknown,,
+213.6.68.210:4145,SOCKS4,Palestine,PS,🇵🇸,5,low,No,Palestine Telecommunications Company,716,Not Checked,,
