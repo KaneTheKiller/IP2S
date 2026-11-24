@@ -1,12 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.161.112.227:999,HTTP,Chile,CL,🇨🇱,0,low,No,Servicios E Inversiones Villasolis Ltda.,5667,Unknown,,
-45.225.204.13:999,HTTP,Chile,CL,🇨🇱,0,low,No,Netdelsur Telecomunicaciones SPA,17324,Not Checked,,
-204.199.139.75:999,HTTP,Chile,CL,🇨🇱,0,low,No,Ingbell Chile SPA,10450,Not Checked,,
-204.199.139.76:999,HTTP,Chile,CL,🇨🇱,0,low,No,Ingbell Chile SPA,13160,Not Checked,,
-190.211.250.132:999,HTTP,Chile,CL,🇨🇱,0,low,No,Compañia de Comunicaciones Coyhaique Ltda.,9099,Not Checked,,
-177.128.115.198:999,HTTP,Chile,CL,🇨🇱,0,low,No,Binet Networking Data Limitada,14774,Not Checked,,
-179.61.101.9:999,HTTP,Chile,CL,🇨🇱,0,low,No,SOC. TELEVISIVA CABLE SANTA JUANA LIMITADA.,15800,Not Checked,,
-200.111.104.59:3128,HTTP,Chile,CL,🇨🇱,1,low,No,Entel Chile S.A.,9920,Not Checked,,
-201.186.41.170:999,HTTP,Chile,CL,🇨🇱,1,low,No,Telefonica del Sur S.A.,18580,Not Checked,,
-200.111.104.59:3129,HTTP,Chile,CL,🇨🇱,1,low,No,Entel Chile S.A.,10796,Not Checked,,
-207.248.0.193:999,HTTP,Chile,CL,🇨🇱,8,low,No,Grupo Metrowan Telecom SPA,11569,Not Checked,,
+200.39.139.65:999,HTTP,Chile,CL,🇨🇱,0,low,No,Iconex SPA,14637,Unknown,,

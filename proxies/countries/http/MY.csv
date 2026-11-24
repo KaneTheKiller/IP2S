@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-111.90.143.197:60808,HTTP,Malaysia,MY,🇲🇾,25,medium,No,Shinjiru Technology Sdn Bhd,14896,Not Checked,,
-111.90.143.197:60808,HTTP,Malaysia,MY,🇲🇾,25,medium,No,Shinjiru Technology Sdn Bhd,7838,Not Checked,,
+56.68.116.64:45270,HTTP,Malaysia,MY,🇲🇾,0,low,No,Amazon.com,4650,Unknown,,

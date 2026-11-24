@@ -1,6 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-16.51.53.116:11961,HTTP,Australia,AU,🇦🇺,0,low,No,Amazon.com,5559,Unknown,,
-16.51.53.116:29065,HTTP,Australia,AU,🇦🇺,0,low,No,Amazon.com,2259,Unknown,,
-159.196.182.72:8080,HTTP,Australia,AU,🇦🇺,3,low,No,Aussie Broadband,3881,Not Checked,,
-130.162.192.208:8080,HTTP,Australia,AU,🇦🇺,4,low,No,Oracle Corporation,6674,Not Checked,,
-13.239.253.213:7890,HTTP,Australia,AU,🇦🇺,4,low,No,Amazon Technologies Inc.,3759,Not Checked,,
+13.239.253.213:3862,HTTP,Australia,AU,🇦🇺,4,low,No,Amazon Technologies Inc.,2440,Not Checked,,
+134.199.160.93:8888,HTTP,Australia,AU,🇦🇺,50,medium,No,"DigitalOcean, LLC",1993,Not Checked,,

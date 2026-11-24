@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-217.64.149.146:8118,HTTP,Sweden,SE,🇸🇪,0,low,Yes,OVPN,14123,Not Checked,,
-177.3.209.83:3128,HTTP,Sweden,SE,🇸🇪,29,medium,No,Play2go - Fzco,8191,Not Checked,,
+56.228.13.15:54584,HTTP,Sweden,SE,🇸🇪,1,low,No,Amazon.com,1986,Not Checked,,

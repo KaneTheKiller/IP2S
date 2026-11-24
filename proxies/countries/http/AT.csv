@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-90.146.196.18:8080,HTTP,Austria,AT,🇦🇹,0,low,No,LIWEST Kabelmedien GmbH,12592,Not Checked,,
+178.115.236.219:8080,HTTP,Austria,AT,🇦🇹,0,low,No,customers with static IP,11826,Unknown,,
