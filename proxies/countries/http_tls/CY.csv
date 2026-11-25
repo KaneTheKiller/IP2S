@@ -1,4 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.199.75.105:9443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,CYTANET,2029,Not Checked,,
-213.207.132.2:9443,HTTP_TLS,Cyprus,CY,🇨🇾,25,medium,Yes,EPIC Ltd,2053,Not Checked,,
-213.207.132.2:9443,HTTP_TLS,Cyprus,CY,🇨🇾,25,medium,Yes,EPIC Ltd,2012,Not Checked,,
+46.199.75.105:9443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,CYTANET,1886,Not Checked,,
+213.207.132.2:9443,HTTP_TLS,Cyprus,CY,🇨🇾,25,medium,Yes,EPIC Ltd,2011,Not Checked,,
+213.207.132.2:9443,HTTP_TLS,Cyprus,CY,🇨🇾,25,medium,Yes,EPIC Ltd,1936,Not Checked,,

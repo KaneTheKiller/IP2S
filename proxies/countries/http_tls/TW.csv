@@ -1,3 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-107.167.191.95:8443,HTTP_TLS,Taiwan,TW,🇹🇼,2,low,No,Google LLC,2147,Not Checked,,
-107.167.191.95:8443,HTTP_TLS,Taiwan,TW,🇹🇼,2,low,No,Google LLC,2079,Not Checked,,
+107.167.191.95:8443,HTTP_TLS,Taiwan,TW,🇹🇼,2,low,No,Google LLC,2234,Not Checked,,
+107.167.191.95:8443,HTTP_TLS,Taiwan,TW,🇹🇼,2,low,No,Google LLC,2233,Not Checked,,
