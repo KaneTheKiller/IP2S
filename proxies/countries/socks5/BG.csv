@@ -1,2 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-194.182.178.90:1080,SOCKS5,Bulgaria,BG,🇧🇬,0,low,No,Akenes SA,1067,Unknown,,
+194.182.178.90:1080,SOCKS5,Bulgaria,BG,🇧🇬,0,low,No,Akenes SA,917,Unknown,,
+31.211.142.115:8192,SOCKS5,Bulgaria,BG,🇧🇬,0,low,No,5KOM,950,Unknown,,
+194.182.178.90:1080,SOCKS5,Bulgaria,BG,🇧🇬,0,low,No,Akenes SA,1487,Unknown,,

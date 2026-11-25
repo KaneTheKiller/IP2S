@@ -1,4 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-88888:88888@8.210.36.244:1080,SOCKS5,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,1050,Not Checked,,
-195.209.248.138:1080,SOCKS5,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,6202,Not Checked,,
-102.36.127.231:1080,SOCKS5,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,5804,Not Checked,,
+88888:88888@8.210.36.244:1080,SOCKS5,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,1079,Not Checked,,
