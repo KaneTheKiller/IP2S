@@ -1,4 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.247.141.86:3128,HTTP,Finland,FI,🇫🇮,0,low,No,Oy Crea Nova Hosting Solution Ltd,1386,Unknown,,
-65.108.159.129:8081,HTTP,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,1651,Not Checked,,
-204.168.225.55:8888,HTTP,Finland,FI,🇫🇮,9,low,No,Hetzner Online GmbH,1293,Not Checked,,
+65.108.159.129:8081,HTTP,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,1024,Not Checked,,
+65.108.159.129:8080,HTTP,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,1647,Not Checked,,
+65.108.159.129:8081,HTTP,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,1039,Not Checked,,
+77.42.95.221:8889,HTTP,Finland,FI,🇫🇮,9,low,No,Hetzner Online GmbH,7181,Not Checked,,

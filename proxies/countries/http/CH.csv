@@ -1,5 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.191.239.248:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Geronimo Ramirez Computer Network,1241,Unknown,,
-185.191.239.248:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Geronimo Ramirez Computer Network,1218,Unknown,,
-147.161.246.34:11683,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,7023,Unknown,,
-147.161.246.34:12564,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,7641,Not Checked,,
+185.191.239.248:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Geronimo Ramirez Computer Network,3110,Unknown,,
+16.18.22.211:46102,HTTP,Switzerland,CH,🇨🇭,2,low,No,"Amazon.com, Inc.",7116,Not Checked,,
+165.225.66.40:11807,HTTP,Switzerland,CH,🇨🇭,2,low,No,Zscaler Switzerland GmbH,1003,Not Checked,,
+165.225.66.40:33333,HTTP,Switzerland,CH,🇨🇭,2,low,No,Zscaler Switzerland GmbH,1042,Not Checked,,
+165.225.66.40:11727,HTTP,Switzerland,CH,🇨🇭,2,low,No,Zscaler Switzerland GmbH,1045,Not Checked,,
+165.225.66.40:11692,HTTP,Switzerland,CH,🇨🇭,2,low,No,Zscaler Switzerland GmbH,1052,Not Checked,,

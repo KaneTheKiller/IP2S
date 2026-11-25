@@ -1,9 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-188.226.89.87:8080,HTTP,Russia,RU,🇷🇺,0,low,No,"LLC ""KomTehCentr""",3894,Unknown,,
-193.124.33.31:2052,HTTP,Russia,RU,🇷🇺,0,low,No,Ilia Baikov,1589,Unknown,,
-193.233.220.20:80,HTTP,Russia,RU,🇷🇺,0,low,No,Aeza Group LLC,2189,Unknown,,
-193.124.33.31:2052,HTTP,Russia,RU,🇷🇺,0,low,No,Ilia Baikov,1765,Unknown,,
-37.46.129.20:3128,HTTP,Russia,RU,🇷🇺,0,low,No,JSC IOT,6258,Unknown,,
-46.173.211.221:12880,HTTP,Russia,RU,🇷🇺,0,low,No,Garant-Park-Internet Ltd,13305,Not Checked,,
-45.133.107.10:81,HTTP,Russia,RU,🇷🇺,0,low,No,Art-net LLC,12003,Not Checked,,
-91.224.77.229:8090,HTTP,Russia,RU,🇷🇺,0,low,No,LLC Telecom MPK,14100,Not Checked,,
+193.124.33.31:2052,HTTP,Russia,RU,🇷🇺,0,low,No,Ilia Baikov,2994,Unknown,,
+193.124.33.31:2052,HTTP,Russia,RU,🇷🇺,0,low,No,Ilia Baikov,1774,Unknown,,
+62.213.13.54:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Rostelecom networks,6421,Unknown,,
+109.252.226.30:8080,HTTP,Russia,RU,🇷🇺,2,low,No,Moscow Local Telephone Network (OAO MGTS),13868,Not Checked,,

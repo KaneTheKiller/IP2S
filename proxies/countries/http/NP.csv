@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-202.166.220.40:8080,HTTP,Nepal,NP,🇳🇵,3,low,No,WorldLink Communications,5451,Not Checked,,
+103.124.97.12:8080,HTTP,Nepal,NP,🇳🇵,0,low,No,Pokhara Internet Pvt. Ltd,9416,Unknown,,

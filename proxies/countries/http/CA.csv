@@ -1,7 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-16.174.124.173:19677,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",1149,Not Checked,,
-16.174.124.173:39272,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",1113,Not Checked,,
-15.223.187.219:29239,HTTP,Canada,CA,🇨🇦,9,low,No,Amazon Technologies Inc.,658,Not Checked,,
-149.56.110.145:3128,HTTP,Canada,CA,🇨🇦,33,medium,No,OVH SAS,13786,Not Checked,,
-159.203.61.169:3128,HTTP,Canada,CA,🇨🇦,52,medium,Yes,"DigitalOcean, LLC",494,Not Checked,,
-159.203.61.169:3128,HTTP,Canada,CA,🇨🇦,52,medium,Yes,"DigitalOcean, LLC",485,Not Checked,,
+16.174.124.173:39272,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",2351,Not Checked,,
+56.112.92.32:40066,HTTP,Canada,CA,🇨🇦,15,low,No,Amazon.com,6320,Not Checked,,
+148.113.202.99:3128,HTTP,Canada,CA,🇨🇦,52,medium,Yes,OVH SAS,15594,Not Checked,,
+159.203.61.169:3128,HTTP,Canada,CA,🇨🇦,52,medium,Yes,"DigitalOcean, LLC",327,Not Checked,,
+148.113.202.99:3128,HTTP,Canada,CA,🇨🇦,52,medium,Yes,OVH SAS,18336,Not Checked,,

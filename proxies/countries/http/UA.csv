@@ -1,5 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-176.97.56.76:3128,HTTP,Ukraine,UA,🇺🇦,0,low,No,"PP ""Zastava Plus""",2353,Unknown,,
-195.226.213.254:8888,HTTP,Ukraine,UA,🇺🇦,0,low,No,Private Enterprise KTV AIDA,7695,Not Checked,,
-62.122.207.173:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,Uteam LTD,11584,Not Checked,,
-91.219.252.107:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,LLC MONOLITH.NET,8058,Not Checked,,
+194.44.255.112:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,LLC EKSINTECH,16323,Unknown,,

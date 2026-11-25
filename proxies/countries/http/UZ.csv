@@ -1,5 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-90.156.160.234:3128,HTTP,Uzbekistan,UZ,🇺🇿,0,low,No,Uzbektelecom JSC,2375,Unknown,,
-90.156.160.234:3128,HTTP,Uzbekistan,UZ,🇺🇿,0,low,No,Uzbektelecom JSC,2330,Unknown,,
-31.135.214.17:8026,HTTP,Uzbekistan,UZ,🇺🇿,0,low,No,Inform-Service TV Ltd,9114,Not Checked,,
-195.158.8.123:3128,HTTP,Uzbekistan,UZ,🇺🇿,5,low,No,"""Uzbektelekom"" Joint Stock Company",8996,Not Checked,,
+90.156.160.234:3128,HTTP,Uzbekistan,UZ,🇺🇿,0,low,No,Uzbektelecom JSC,2237,Unknown,,
+90.156.160.234:3128,HTTP,Uzbekistan,UZ,🇺🇿,0,low,No,Uzbektelecom JSC,2234,Unknown,,
+195.158.8.123:3128,HTTP,Uzbekistan,UZ,🇺🇿,5,low,No,"""Uzbektelekom"" Joint Stock Company",14099,Not Checked,,

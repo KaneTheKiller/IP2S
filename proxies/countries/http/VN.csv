@@ -1,10 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-113.160.37.152:53281,HTTP,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,5464,Unknown,,
-103.82.20.76:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,INETACADEMY,2290,Unknown,,
-113.160.130.82:443,HTTP,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,12374,Not Checked,,
-113.176.92.71:3128,HTTP,Vietnam,VN,🇻🇳,0,low,No,VNPT,12259,Not Checked,,
-113.160.155.121:19132,HTTP,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,12890,Not Checked,,
-113.163.156.8:3128,HTTP,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,15551,Not Checked,,
-103.81.86.170:8888,HTTP,Vietnam,VN,🇻🇳,0,low,No,Thien Quang Digital technology joint stock company,8773,Not Checked,,
-118.68.172.14:3128,HTTP,Vietnam,VN,🇻🇳,1,low,No,FPT Telecom Company,5111,Not Checked,,
-42.116.10.198:514,HTTP,Vietnam,VN,🇻🇳,4,low,Yes,FPT Telecom Company,13189,Not Checked,,
+160.30.204.24:10001,HTTP,Vietnam,VN,🇻🇳,0,low,No,TVC,3288,Unknown,,
+103.81.86.170:8888,HTTP,Vietnam,VN,🇻🇳,0,low,No,Thien Quang Digital technology joint stock company,7966,Unknown,,
+171.242.190.90:3128,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,5038,Not Checked,,
