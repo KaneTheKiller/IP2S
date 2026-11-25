@@ -1,8 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-83.143.24.66:1080,SOCKS4,Botswana,BW,🇧🇼,0,low,No,inqBW,4267,Not Checked,,
-129.205.244.158:1080,SOCKS4,Botswana,BW,🇧🇼,0,low,No,BOTSWANA FIBRE NETWORKS (Proprietary) Limited,2234,Not Checked,,
-83.143.29.225:1080,SOCKS4,Botswana,BW,🇧🇼,0,low,No,VBN Services,8374,Not Checked,,
-83.143.24.29:5678,SOCKS4,Botswana,BW,🇧🇼,0,low,No,inqBW,8404,Not Checked,,
-83.143.29.161:1080,SOCKS4,Botswana,BW,🇧🇼,0,low,No,VBN Services,2218,Not Checked,,
-83.143.29.161:1080,SOCKS4,Botswana,BW,🇧🇼,0,low,No,VBN Services,3236,Not Checked,,
-83.143.24.29:5678,SOCKS4,Botswana,BW,🇧🇼,0,low,No,inqBW,3249,Not Checked,,
+129.205.244.158:1080,SOCKS4,Botswana,BW,🇧🇼,0,low,No,BOTSWANA FIBRE NETWORKS (Proprietary) Limited,3410,Not Checked,,

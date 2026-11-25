@@ -1,9 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.117.228.97:4145,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,E-world Communication SDN BHD,5027,Not Checked,,
-1.32.57.85:5678,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,TM TECHNOLOGY SERVICES SDN BHD,2963,Not Checked,,
-103.1.105.10:4153,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,TM TECHNOLOGY SERVICES SDN BHD,1892,Not Checked,,
-103.58.16.106:4145,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,E-world Communication SDN BHD,2195,Not Checked,,
-1.32.57.85:5678,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,TM TECHNOLOGY SERVICES SDN BHD,4009,Not Checked,,
-103.58.16.106:4145,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,E-world Communication SDN BHD,1937,Not Checked,,
-175.139.201.193:4153,SOCKS4,Malaysia,MY,🇲🇾,1,low,No,TM TECHNOLOGY SERVICES SDN BHD,1883,Not Checked,,
-60.54.19.44:1080,SOCKS4,Malaysia,MY,🇲🇾,1,low,No,TM TECHNOLOGY SERVICES SDN BHD,1002,Not Checked,,
+103.58.16.106:4145,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,E-world Communication SDN BHD,754,Unknown,,
+45.117.228.97:4145,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,E-world Communication SDN BHD,2797,Not Checked,,
+47.254.213.60:1081,SOCKS4,Malaysia,MY,🇲🇾,2,low,No,Alibaba Cloud LLC,691,Not Checked,,
+47.254.213.60:1081,SOCKS4,Malaysia,MY,🇲🇾,2,low,No,Alibaba Cloud LLC,700,Not Checked,,

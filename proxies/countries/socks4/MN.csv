@@ -1,8 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-202.131.246.250:5678,SOCKS4,Mongolia,MN,🇲🇳,0,low,No,Mobinet LLC,4279,Not Checked,,
-202.131.235.138:4153,SOCKS4,Mongolia,MN,🇲🇳,0,low,No,Mobinet LLC,3456,Not Checked,,
-203.174.26.137:4153,SOCKS4,Mongolia,MN,🇲🇳,0,low,No,YokozunaNET,2584,Not Checked,,
-49.0.156.20:32000,SOCKS4,Mongolia,MN,🇲🇳,0,low,No,YokozunaNET,2550,Not Checked,,
-203.174.26.137:4153,SOCKS4,Mongolia,MN,🇲🇳,0,low,No,YokozunaNET,6702,Not Checked,,
-180.149.95.214:4153,SOCKS4,Mongolia,MN,🇲🇳,0,low,No,Gemnet,5666,Not Checked,,
-49.0.156.20:32000,SOCKS4,Mongolia,MN,🇲🇳,0,low,No,YokozunaNET,4248,Not Checked,,
+202.131.246.250:5678,SOCKS4,Mongolia,MN,🇲🇳,0,low,No,Mobinet LLC,2115,Not Checked,,
+180.149.95.214:4153,SOCKS4,Mongolia,MN,🇲🇳,0,low,No,Gemnet,3492,Not Checked,,
