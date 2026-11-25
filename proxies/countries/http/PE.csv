@@ -1,2 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-190.119.185.156:999,HTTP,Peru,PE,🇵🇪,1,low,No,America Movil Peru S.A.C.,1558,Not Checked,,
+201.230.121.244:999,HTTP,Peru,PE,🇵🇪,0,low,No,Telefonica Del Peru,17333,Not Checked,,
+38.252.213.233:999,HTTP,Peru,PE,🇵🇪,0,low,No,Cogent Communications,8181,Not Checked,,
+200.106.124.127:999,HTTP,Peru,PE,🇵🇪,0,low,No,Telefonica del Peru,12843,Not Checked,,
+38.158.83.161:999,HTTP,Peru,PE,🇵🇪,0,low,No,Fiberred SAC,8838,Not Checked,,
+200.48.35.122:999,HTTP,Peru,PE,🇵🇪,1,low,No,Telefonica del Peru S.A.A.,19930,Not Checked,,
+38.210.106.24:999,HTTP,Peru,PE,🇵🇪,17,low,No,Cogent Communications,6373,Not Checked,,

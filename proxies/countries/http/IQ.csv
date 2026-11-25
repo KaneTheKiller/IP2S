@@ -1,3 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-65.20.230.118:9090,HTTP,Iraq,IQ,🇮🇶,0,low,No,Hulum,14022,Not Checked,,
-62.201.217.243:40010,HTTP,Iraq,IQ,🇮🇶,0,low,No,BAG,7781,Not Checked,,
+62.201.217.194:8080,HTTP,Iraq,IQ,🇮🇶,0,low,No,BAG,11072,Not Checked,,
+62.201.217.243:40010,HTTP,Iraq,IQ,🇮🇶,0,low,No,BAG,15407,Not Checked,,

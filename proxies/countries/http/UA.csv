@@ -1,2 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-194.44.255.112:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,LLC EKSINTECH,16323,Unknown,,
+88.135.210.179:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,Uteam LTD,5979,Unknown,,
+195.34.91.67:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,Modus-Global LLC,5826,Unknown,,
+195.226.213.254:8888,HTTP,Ukraine,UA,🇺🇦,0,low,No,Private Enterprise KTV AIDA,9957,Not Checked,,
+91.210.117.184:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,Miratel Ltd,9473,Not Checked,,
+195.149.125.150:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,Complex Communication Systems Ltd,10018,Not Checked,,
+194.44.255.112:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,LLC EKSINTECH,10586,Not Checked,,
+176.97.56.76:3128,HTTP,Ukraine,UA,🇺🇦,0,low,No,"PP ""Zastava Plus""",8807,Not Checked,,
+176.105.220.74:3129,HTTP,Ukraine,UA,🇺🇦,0,low,No,RPC HomeNet Ltd.,13987,Not Checked,,
+176.37.21.46:41890,HTTP,Ukraine,UA,🇺🇦,2,low,No,Lanet Network,8747,Not Checked,,

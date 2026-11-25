@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-143.202.254.50:999,HTTP,Nicaragua,NI,🇳🇮,0,low,No,Tecomunica Nicaragua,7533,Unknown,,
+143.202.254.50:999,HTTP,Nicaragua,NI,🇳🇮,0,low,No,Tecomunica Nicaragua,13509,Not Checked,,

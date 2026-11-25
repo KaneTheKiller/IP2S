@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-79.106.229.208:8989,HTTP,Albania,AL,🇦🇱,0,low,No,DUR-ISP,14305,Unknown,,
-185.89.156.2:44224,HTTP,Albania,AL,🇦🇱,0,low,No,ATU,10237,Unknown,,
+79.106.165.246:8989,HTTP,Albania,AL,🇦🇱,0,low,No,TEST0629,13151,Not Checked,,

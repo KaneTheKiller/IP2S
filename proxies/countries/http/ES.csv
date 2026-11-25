@@ -1,3 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-2.139.41.14:3128,HTTP,Spain,ES,🇪🇸,1,low,No,RIMA (Red IP Multi Acceso),15718,Not Checked,,
-15.217.107.97:8118,HTTP,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",1216,Not Checked,,
+185.174.80.7:3128,HTTP,Spain,ES,🇪🇸,0,low,No,Nolu Network S.L.,5491,Unknown,,
+185.174.80.7:3128,HTTP,Spain,ES,🇪🇸,0,low,No,Nolu Network S.L.,11268,Not Checked,,
+35.43.85.195:8491,HTTP,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",1544,Not Checked,,
+15.217.107.97:12492,HTTP,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",2723,Not Checked,,
+15.217.214.40:19210,HTTP,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",3031,Not Checked,,

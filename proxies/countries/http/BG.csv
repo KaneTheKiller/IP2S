@@ -1,2 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.10.209.230:8080,HTTP,Bulgaria,BG,🇧🇬,2,low,No,BTC-BROADBAND,17010,Not Checked,,
+194.182.178.90:3128,HTTP,Bulgaria,BG,🇧🇬,0,low,No,Akenes SA,4001,Unknown,,
+151.237.84.9:8080,HTTP,Bulgaria,BG,🇧🇬,0,low,No,Netroniks EOOD,8124,Not Checked,,

@@ -1,2 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-102.212.104.129:8082,HTTP,Nigeria,NG,🇳🇬,80,high,No,Teltwine Networks Limited,13508,Not Checked,,
+102.90.0.149:8080,HTTP,Nigeria,NG,🇳🇬,0,low,No,MTN NIGERIA Communication limited,7303,Unknown,,
+102.36.133.62:8080,HTTP,Nigeria,NG,🇳🇬,100,very_high,No,Syscodes Communications,12618,Not Checked,,

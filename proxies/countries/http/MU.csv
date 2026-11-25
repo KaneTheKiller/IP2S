@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-105.28.176.41:9812,HTTP,Mauritius,MU,🇲🇺,0,low,No,SEACOM Limited Networks,11905,Unknown,,
+41.190.157.162:3128,HTTP,Mauritius,MU,🇲🇺,4,low,No,Maintainer Liquid Telecommunications Operations Limited,23766,Not Checked,,
