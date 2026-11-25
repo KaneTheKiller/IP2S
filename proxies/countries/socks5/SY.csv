@@ -1,5 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-89.43.133.169:1080,SOCKS5,Syria,SY,🇸🇾,0,low,No,High Speed For Internet Services L.L.C,2236,Not Checked,,
-91.144.9.132:1080,SOCKS5,Syria,SY,🇸🇾,0,low,No,STE Public Data Network Backbone and LIR,8467,Not Checked,,
-89.43.133.56:1080,SOCKS5,Syria,SY,🇸🇾,0,low,No,High Speed For Internet Services L.L.C,3455,Not Checked,,
-91.144.9.134:1080,SOCKS5,Syria,SY,🇸🇾,0,low,No,STE Public Data Network Backbone and LIR,5374,Not Checked,,
+89.43.133.169:1080,SOCKS5,Syria,SY,🇸🇾,0,low,No,High Speed For Internet Services L.L.C,8617,Not Checked,,

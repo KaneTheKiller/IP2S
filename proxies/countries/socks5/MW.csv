@@ -1,2 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-216.234.216.39:1080,SOCKS5,Malawi,MW,🇲🇼,16,low,No,Space Exploration Technologies Corporation,3010,Not Checked,,
+41.75.123.101:1080,SOCKS5,Malawi,MW,🇲🇼,0,low,No,Skyband Corporation Limited,10082,Not Checked,,
+216.234.216.76:1080,SOCKS5,Malawi,MW,🇲🇼,16,low,No,Space Exploration Technologies Corporation,9191,Not Checked,,
+216.234.216.39:1080,SOCKS5,Malawi,MW,🇲🇼,16,low,No,Space Exploration Technologies Corporation,10882,Not Checked,,

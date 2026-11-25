@@ -1,6 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.174.120.163:8090,SOCKS5,Ukraine,UA,🇺🇦,0,low,No,LLC EKSINTECH,3388,Not Checked,,
-194.44.255.112:8090,SOCKS5,Ukraine,UA,🇺🇦,0,low,No,LLC EKSINTECH,8223,Not Checked,,
-5.53.119.134:1080,SOCKS5,Ukraine,UA,🇺🇦,0,low,No,Dataline LLC,3001,Not Checked,,
-193.218.118.128:1080,SOCKS5,Ukraine,UA,🇺🇦,50,medium,No,Ukrainian Data Network,5263,Not Checked,,
-193.218.118.128:1080,SOCKS5,Ukraine,UA,🇺🇦,50,medium,No,Ukrainian Data Network,5944,Not Checked,,
+46.174.120.163:8090,SOCKS5,Ukraine,UA,🇺🇦,0,low,No,LLC EKSINTECH,6285,Not Checked,,
+194.44.255.112:8090,SOCKS5,Ukraine,UA,🇺🇦,0,low,No,LLC EKSINTECH,3017,Not Checked,,
+193.218.118.128:1080,SOCKS5,Ukraine,UA,🇺🇦,50,medium,No,Ukrainian Data Network,6320,Not Checked,,
+193.218.118.128:1080,SOCKS5,Ukraine,UA,🇺🇦,50,medium,No,Ukrainian Data Network,3885,Not Checked,,

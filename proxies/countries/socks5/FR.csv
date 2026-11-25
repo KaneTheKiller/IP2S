@@ -1,3 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-82.180.146.251:10800,SOCKS5,France,FR,🇫🇷,0,low,No,Contabo Asia Private Limited,9114,Not Checked,,
-82.180.146.251:10800,SOCKS5,France,FR,🇫🇷,0,low,No,Contabo Asia Private Limited,3319,Not Checked,,
+77.221.152.59:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Aeza Group LLC,10724,Not Checked,,
+82.180.146.251:10800,SOCKS5,France,FR,🇫🇷,0,low,No,Contabo Asia Private Limited,3873,Not Checked,,
+82.21.200.222:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Association YORKHOST,7686,Not Checked,,
