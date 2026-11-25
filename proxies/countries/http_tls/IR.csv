@@ -1,3 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-94.183.162.84:443,HTTP_TLS,Iran,IR,🇮🇷,0,low,No,Mehran Abbasi,3270,Not Checked,,
-94.183.162.84:443,HTTP_TLS,Iran,IR,🇮🇷,0,low,No,Mehran Abbasi,3277,Not Checked,,
+94.183.162.84:443,HTTP_TLS,Iran,IR,🇮🇷,0,low,No,Mehran Abbasi,3620,Not Checked,,
+94.183.162.84:443,HTTP_TLS,Iran,IR,🇮🇷,0,low,No,Mehran Abbasi,4019,Not Checked,,
