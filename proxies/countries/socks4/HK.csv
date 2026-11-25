@@ -1,6 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-205.177.85.130:39593,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,"CDS Global Cloud Co., Ltd",524,Unknown,,
-156.225.31.18:7890,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Vapeline Technology,4439,Not Checked,,
-47.239.140.6:80,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,2592,Not Checked,,
-205.177.85.130:39593,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,"CDS Global Cloud Co., Ltd",1552,Not Checked,,
-101.36.112.205:1081,SOCKS4,Hong Kong,HK,🇭🇰,3,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1816,Not Checked,,
+47.239.140.6:443,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,5944,Not Checked,,
+156.238.237.121:1080,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,cognetcloud INC,13531,Not Checked,,
+205.177.85.130:39593,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,"CDS Global Cloud Co., Ltd",2599,Not Checked,,

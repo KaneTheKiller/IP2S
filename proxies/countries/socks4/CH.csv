@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-16.18.22.211:46102,SOCKS4,Switzerland,CH,🇨🇭,2,low,No,"Amazon.com, Inc.",682,Not Checked,,
+16.18.22.211:46102,SOCKS4,Switzerland,CH,🇨🇭,2,low,No,"Amazon.com, Inc.",511,Not Checked,,

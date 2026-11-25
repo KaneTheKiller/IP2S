@@ -1,6 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-200.106.124.169:1080,SOCKS4,Peru,PE,🇵🇪,0,low,No,Telefonica del Peru,744,Unknown,,
-190.12.95.170:37209,SOCKS4,Peru,PE,🇵🇪,0,low,No,ON EMPRESAS S.A.C,1728,Not Checked,,
-190.119.41.162:1080,SOCKS4,Peru,PE,🇵🇪,1,low,No,America Movil Peru S.A.C.,5100,Not Checked,,
-190.119.41.162:1080,SOCKS4,Peru,PE,🇵🇪,1,low,No,America Movil Peru S.A.C.,8117,Not Checked,,
-181.176.68.118:5088,SOCKS4,Peru,PE,🇵🇪,1,low,No,VIETTEL PERÚ S.A.C.,1775,Not Checked,,
+190.12.95.170:37209,SOCKS4,Peru,PE,🇵🇪,0,low,No,ON EMPRESAS S.A.C,716,Unknown,,
+190.12.95.170:37209,SOCKS4,Peru,PE,🇵🇪,0,low,No,ON EMPRESAS S.A.C,785,Unknown,,
+190.119.41.162:1080,SOCKS4,Peru,PE,🇵🇪,1,low,No,America Movil Peru S.A.C.,5090,Not Checked,,
+190.119.41.162:1080,SOCKS4,Peru,PE,🇵🇪,1,low,No,America Movil Peru S.A.C.,8236,Not Checked,,
+181.176.68.118:5088,SOCKS4,Peru,PE,🇵🇪,1,low,No,VIETTEL PERÚ S.A.C.,1826,Not Checked,,
+181.176.68.118:5088,SOCKS4,Peru,PE,🇵🇪,1,low,No,VIETTEL PERÚ S.A.C.,4835,Not Checked,,

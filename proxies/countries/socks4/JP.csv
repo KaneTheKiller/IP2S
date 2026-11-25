@@ -1,6 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.13.19.219:10808,SOCKS4,Japan,JP,🇯🇵,0,low,Yes,Lixium Sarl,533,Unknown,,
-103.13.19.219:10808,SOCKS4,Japan,JP,🇯🇵,0,low,Yes,Lixium Sarl,828,Not Checked,,
-138.3.218.141:54261,SOCKS4,Japan,JP,🇯🇵,1,low,No,Oracle Corporation,4523,Not Checked,,
-138.3.218.141:54261,SOCKS4,Japan,JP,🇯🇵,1,low,No,Oracle Corporation,11642,Not Checked,,
-43.207.113.167:44580,SOCKS4,Japan,JP,🇯🇵,2,low,No,"Amazon.com, Inc.",577,Not Checked,,
+103.13.19.219:10808,SOCKS4,Japan,JP,🇯🇵,0,low,Yes,Lixium Sarl,661,Unknown,,
+103.13.19.219:10808,SOCKS4,Japan,JP,🇯🇵,0,low,Yes,Lixium Sarl,2097,Not Checked,,
+209.182.234.151:40000,SOCKS4,Japan,JP,🇯🇵,24,medium,No,"HIVELOCITY, Inc.",7074,Not Checked,,

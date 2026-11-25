@@ -1,9 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-24.37.245.42:51056,SOCKS4,Canada,CA,🇨🇦,0,low,No,Le Groupe Videotron Ltee,2452,Not Checked,,
-70.38.101.182:40000,SOCKS4,Canada,CA,🇨🇦,0,low,No,Leaseweb Canada Inc.,869,Not Checked,,
-16.174.124.173:56177,SOCKS4,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",312,Not Checked,,
-142.112.52.229:8443,SOCKS4,Canada,CA,🇨🇦,3,low,No,Bell Canada,7517,Not Checked,,
-50.67.100.178:8080,SOCKS4,Canada,CA,🇨🇦,5,low,No,Shaw Communications,3532,Not Checked,,
-50.67.100.178:8080,SOCKS4,Canada,CA,🇨🇦,5,low,No,Shaw Communications,2413,Not Checked,,
-56.112.92.32:40066,SOCKS4,Canada,CA,🇨🇦,15,low,No,Amazon.com,292,Not Checked,,
-56.112.93.245:6021,SOCKS4,Canada,CA,🇨🇦,15,low,No,Amazon.com,5723,Not Checked,,
+24.37.245.42:51056,SOCKS4,Canada,CA,🇨🇦,0,low,No,Le Groupe Videotron Ltee,4589,Not Checked,,
+50.67.100.178:8080,SOCKS4,Canada,CA,🇨🇦,5,low,No,Shaw Communications,377,Not Checked,,
+50.67.100.178:8080,SOCKS4,Canada,CA,🇨🇦,5,low,No,Shaw Communications,2420,Not Checked,,
+35.183.29.62:48156,SOCKS4,Canada,CA,🇨🇦,9,low,No,Amazon Technologies Inc.,145,Not Checked,,
