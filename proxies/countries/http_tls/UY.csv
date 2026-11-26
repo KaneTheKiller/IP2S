@@ -1,5 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-201.217.148.180:443,HTTP_TLS,Uruguay,UY,🇺🇾,0,low,No,Administracion Nacional de Telecomunicaciones,2579,Not Checked,,
-201.217.148.180:443,HTTP_TLS,Uruguay,UY,🇺🇾,0,low,No,Administracion Nacional de Telecomunicaciones,2526,Not Checked,,
-45.228.67.130:9443,HTTP_TLS,Uruguay,UY,🇺🇾,0,low,Yes,Sondatech S.A.S.,2466,Not Checked,,
-45.228.67.130:9443,HTTP_TLS,Uruguay,UY,🇺🇾,0,low,Yes,Sondatech S.A.S.,2406,Not Checked,,
+201.217.148.180:443,HTTP_TLS,Uruguay,UY,🇺🇾,0,low,No,Administracion Nacional de Telecomunicaciones,2474,Not Checked,,
+201.217.148.180:443,HTTP_TLS,Uruguay,UY,🇺🇾,0,low,No,Administracion Nacional de Telecomunicaciones,2184,Not Checked,,
+45.228.67.130:9443,HTTP_TLS,Uruguay,UY,🇺🇾,0,low,Yes,Sondatech S.A.S.,3172,Not Checked,,
+45.228.67.130:9443,HTTP_TLS,Uruguay,UY,🇺🇾,0,low,Yes,Sondatech S.A.S.,2295,Not Checked,,

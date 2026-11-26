@@ -1,5 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-146.70.219.242:9443,HTTP_TLS,Norway,NO,🇳🇴,43,medium,Yes,M247 Europe Infra,2120,Not Checked,,
-146.70.219.242:9443,HTTP_TLS,Norway,NO,🇳🇴,43,medium,Yes,M247 Europe Infra,2165,Not Checked,,
-82.102.22.178:9443,HTTP_TLS,Norway,NO,🇳🇴,73,high,Yes,M247 Europe SRL,2157,Not Checked,,
-82.102.22.178:9443,HTTP_TLS,Norway,NO,🇳🇴,73,high,Yes,M247 Europe SRL,2142,Not Checked,,
+146.70.219.242:9443,HTTP_TLS,Norway,NO,🇳🇴,45,medium,Yes,M247 Europe Infra,1718,Not Checked,,
+146.70.219.242:9443,HTTP_TLS,Norway,NO,🇳🇴,45,medium,Yes,M247 Europe Infra,1740,Not Checked,,
+82.102.22.178:9443,HTTP_TLS,Norway,NO,🇳🇴,73,high,Yes,M247 Europe SRL,1722,Not Checked,,
+82.102.22.178:9443,HTTP_TLS,Norway,NO,🇳🇴,73,high,Yes,M247 Europe SRL,1776,Not Checked,,
