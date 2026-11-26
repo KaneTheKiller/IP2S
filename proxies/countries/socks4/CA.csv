@@ -1,2 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-40.177.104.199:30577,SOCKS4,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",227,Not Checked,,
+70.38.101.182:40000,SOCKS4,Canada,CA,🇨🇦,0,low,No,Leaseweb Canada Inc.,3442,Not Checked,,
+40.177.104.199:30577,SOCKS4,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",253,Not Checked,,
+69.70.74.118:1337,SOCKS4,Canada,CA,🇨🇦,3,low,No,Videotron Ltee,257,Not Checked,,
+69.70.74.118:1337,SOCKS4,Canada,CA,🇨🇦,3,low,No,Videotron Ltee,5392,Not Checked,,
+50.67.100.178:8080,SOCKS4,Canada,CA,🇨🇦,5,low,No,Shaw Communications,7568,Not Checked,,
