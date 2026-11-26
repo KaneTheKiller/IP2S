@@ -1,6 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-102.0.35.254:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile & Fixed Internet,5212,Not Checked,,
-154.79.251.168:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile Broadband,2925,Not Checked,,
-41.139.147.86:5678,SOCKS4,Kenya,KE,🇰🇪,6,low,No,Safaricom Limited,8439,Not Checked,,
-41.139.147.86:5678,SOCKS4,Kenya,KE,🇰🇪,6,low,No,Safaricom Limited,1650,Not Checked,,
-102.211.146.103:1080,SOCKS4,Kenya,KE,🇰🇪,8,low,No,Unwired Communications Limited,5448,Not Checked,,
+102.0.35.254:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile & Fixed Internet,4560,Not Checked,,
+154.79.251.168:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile Broadband,7218,Not Checked,,
+154.79.246.102:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile & Fixed Internet,7149,Not Checked,,
+102.0.36.166:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile & Fixed Internet,3479,Not Checked,,
+102.0.36.166:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile & Fixed Internet,3308,Not Checked,,
+154.79.246.102:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile & Fixed Internet,5599,Not Checked,,

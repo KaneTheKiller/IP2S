@@ -1,5 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.58.16.106:4145,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,E-world Communication SDN BHD,754,Unknown,,
-45.117.228.97:4145,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,E-world Communication SDN BHD,2797,Not Checked,,
+56.68.116.64:47153,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,Amazon.com,768,Unknown,,
+103.58.16.106:4145,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,E-world Communication SDN BHD,753,Unknown,,
+45.117.228.97:4145,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,E-world Communication SDN BHD,1761,Not Checked,,
+45.117.228.97:4145,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,E-world Communication SDN BHD,6066,Not Checked,,
+103.58.16.106:4145,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,E-world Communication SDN BHD,2967,Not Checked,,
+60.54.19.45:1080,SOCKS4,Malaysia,MY,🇲🇾,1,low,No,TM TECHNOLOGY SERVICES SDN BHD,969,Not Checked,,
 47.254.213.60:1081,SOCKS4,Malaysia,MY,🇲🇾,2,low,No,Alibaba Cloud LLC,691,Not Checked,,
-47.254.213.60:1081,SOCKS4,Malaysia,MY,🇲🇾,2,low,No,Alibaba Cloud LLC,700,Not Checked,,
+47.254.213.60:1081,SOCKS4,Malaysia,MY,🇲🇾,2,low,No,Alibaba Cloud LLC,693,Not Checked,,

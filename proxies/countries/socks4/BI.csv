@@ -1,7 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-197.157.195.154:1080,SOCKS4,Burundi,BI,🇧🇮,0,low,No,Spidernet Network,3551,Not Checked,,
-197.157.194.10:1080,SOCKS4,Burundi,BI,🇧🇮,0,low,No,Spidernet Network,1558,Not Checked,,
-197.157.194.10:1080,SOCKS4,Burundi,BI,🇧🇮,0,low,No,Spidernet Network,1792,Not Checked,,
-197.157.194.28:1080,SOCKS4,Burundi,BI,🇧🇮,0,low,No,Spidernet Network,3573,Not Checked,,
-197.157.192.168:1080,SOCKS4,Burundi,BI,🇧🇮,0,low,No,Spidernet Network,1555,Not Checked,,
-197.157.195.154:1080,SOCKS4,Burundi,BI,🇧🇮,0,low,No,Spidernet Network,1305,Not Checked,,
+197.157.195.154:1080,SOCKS4,Burundi,BI,🇧🇮,0,low,No,Spidernet Network,1782,Not Checked,,
+197.157.194.10:1080,SOCKS4,Burundi,BI,🇧🇮,0,low,No,Spidernet Network,2973,Not Checked,,
+197.157.192.168:1080,SOCKS4,Burundi,BI,🇧🇮,0,low,No,Spidernet Network,3081,Not Checked,,
+197.157.192.168:1080,SOCKS4,Burundi,BI,🇧🇮,0,low,No,Spidernet Network,4596,Not Checked,,
+197.157.195.154:1080,SOCKS4,Burundi,BI,🇧🇮,0,low,No,Spidernet Network,2766,Not Checked,,

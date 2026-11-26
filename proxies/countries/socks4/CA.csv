@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-15.223.187.219:30337,SOCKS4,Canada,CA,🇨🇦,9,low,No,Amazon Technologies Inc.,279,Not Checked,,
+40.177.104.199:30577,SOCKS4,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",227,Not Checked,,

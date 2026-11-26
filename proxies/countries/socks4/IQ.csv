@@ -1,6 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-159.255.164.163:1080,SOCKS4,Iraq,IQ,🇮🇶,0,low,No,Tarin General Trading and Setting Up Internet Device LTD,4295,Not Checked,,
-62.201.212.198:4673,SOCKS4,Iraq,IQ,🇮🇶,0,low,No,NETWORKS-SULY1,4081,Not Checked,,
-62.201.212.198:4673,SOCKS4,Iraq,IQ,🇮🇶,0,low,No,NETWORKS-SULY1,5153,Not Checked,,
-109.224.22.34:51372,SOCKS4,Iraq,IQ,🇮🇶,4,low,No,Hulum,1175,Not Checked,,
-109.224.12.170:52015,SOCKS4,Iraq,IQ,🇮🇶,4,low,No,Hulum,4332,Not Checked,,
+159.255.164.163:1080,SOCKS4,Iraq,IQ,🇮🇶,0,low,No,Tarin General Trading and Setting Up Internet Device LTD,3359,Not Checked,,
+159.255.164.163:1080,SOCKS4,Iraq,IQ,🇮🇶,0,low,No,Tarin General Trading and Setting Up Internet Device LTD,1170,Not Checked,,
+62.201.212.198:4673,SOCKS4,Iraq,IQ,🇮🇶,0,low,No,NETWORKS-SULY1,1356,Not Checked,,
+109.224.22.34:51372,SOCKS4,Iraq,IQ,🇮🇶,4,low,No,Hulum,3212,Not Checked,,
+109.224.12.170:52015,SOCKS4,Iraq,IQ,🇮🇶,4,low,No,Hulum,1151,Not Checked,,
