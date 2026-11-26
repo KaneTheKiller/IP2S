@@ -1,3 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.235.83.76:1080,SOCKS5,Kazakhstan,KZ,🇰🇿,0,low,No,Jusan Mobile JSC,4735,Not Checked,,
-217.151.230.186:9055,SOCKS5,Kazakhstan,KZ,🇰🇿,0,low,No,"JSC ""TIMEWEB""",9617,Not Checked,,
+46.235.83.76:1080,SOCKS5,Kazakhstan,KZ,🇰🇿,0,low,No,Jusan Mobile JSC,1928,Unknown,,
+188.0.153.235:1080,SOCKS5,Kazakhstan,KZ,🇰🇿,0,low,No,Jusan Mobile JSC,6688,Not Checked,,
+188.0.153.235:1080,SOCKS5,Kazakhstan,KZ,🇰🇿,0,low,No,Jusan Mobile JSC,5525,Not Checked,,

@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-102.214.45.70:1080,SOCKS5,Tanzania,TZ,🇹🇿,0,low,No,Zanzibar Information Communication Technology Infrastructure Agency,13267,Not Checked,,
+165.16.192.81:1080,SOCKS5,Tanzania,TZ,🇹🇿,0,low,No,"Computer Sales & Services, single-ip-customers",6596,Not Checked,,

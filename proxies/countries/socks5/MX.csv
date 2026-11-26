@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-206.135.52.21:1080,SOCKS5,Mexico,MX,🇲🇽,17,low,No,Ientc S De RL De CV,7627,Not Checked,,
+78.14.19.3:4877,SOCKS5,Mexico,MX,🇲🇽,0,low,No,Amazon.com,523,Unknown,,
