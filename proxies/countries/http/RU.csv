@@ -1,5 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-193.124.33.31:2052,HTTP,Russia,RU,🇷🇺,0,low,No,Ilia Baikov,2399,Unknown,,
-89.151.133.216:8080,HTTP,Russia,RU,🇷🇺,0,low,No,VolgaTelecom Cheboxary,17702,Not Checked,,
-80.246.16.160:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Server-Center JSC Network,17648,Not Checked,,
-188.226.89.87:8080,HTTP,Russia,RU,🇷🇺,0,low,No,"LLC ""KomTehCentr""",20927,Not Checked,,
+193.124.33.31:2052,HTTP,Russia,RU,🇷🇺,0,low,No,Ilia Baikov,2253,Unknown,,
+79.174.63.114:8081,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""Ufanet""",20974,Not Checked,,
+193.19.190.59:8095,HTTP,Russia,RU,🇷🇺,0,low,No,Voronezh Telecom LLC,18014,Not Checked,,

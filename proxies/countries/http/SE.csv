@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-56.228.13.15:8097,HTTP,Sweden,SE,🇸🇪,1,low,No,Amazon.com,2551,Not Checked,,
-56.228.13.15:43821,HTTP,Sweden,SE,🇸🇪,1,low,No,Amazon.com,2312,Not Checked,,
+56.228.13.15:9999,HTTP,Sweden,SE,🇸🇪,1,low,No,Amazon.com,2872,Not Checked,,

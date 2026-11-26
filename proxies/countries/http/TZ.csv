@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-154.0.157.196:8080,HTTP,Tanzania,TZ,🇹🇿,0,low,No,Habari Node PLC Dar TIX,17481,Not Checked,,
-154.72.67.190:8080,HTTP,Tanzania,TZ,🇹🇿,0,low,No,RAHA-LTZ,17359,Not Checked,,
+41.220.131.48:8040,HTTP,Tanzania,TZ,🇹🇿,0,low,No,Habari Node Ltd,7140,Unknown,,

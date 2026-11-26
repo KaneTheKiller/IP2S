@@ -1,6 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.174.80.7:3128,HTTP,Spain,ES,🇪🇸,0,low,No,Nolu Network S.L.,5491,Unknown,,
-185.174.80.7:3128,HTTP,Spain,ES,🇪🇸,0,low,No,Nolu Network S.L.,11268,Not Checked,,
-35.43.85.195:8491,HTTP,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",1544,Not Checked,,
-15.217.107.97:12492,HTTP,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",2723,Not Checked,,
-15.217.214.40:19210,HTTP,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",3031,Not Checked,,
+90.161.220.67:3128,HTTP,Spain,ES,🇪🇸,1,low,No,UNI2-ABI,10328,Not Checked,,
+15.217.107.97:34532,HTTP,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",8323,Not Checked,,
+51.94.221.175:23704,HTTP,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",2702,Not Checked,,
+15.217.214.40:27394,HTTP,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",5140,Not Checked,,

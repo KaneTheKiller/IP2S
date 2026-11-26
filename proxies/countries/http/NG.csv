@@ -1,3 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-102.90.0.149:8080,HTTP,Nigeria,NG,🇳🇬,0,low,No,MTN NIGERIA Communication limited,7303,Unknown,,
-102.36.133.62:8080,HTTP,Nigeria,NG,🇳🇬,100,very_high,No,Syscodes Communications,12618,Not Checked,,
+102.220.189.201:8080,HTTP,Nigeria,NG,🇳🇬,50,medium,No,Dotmac Technologies Limited,2746,Not Checked,,
+102.220.189.17:8080,HTTP,Nigeria,NG,🇳🇬,50,medium,No,Dotmac Technologies Limited,2325,Not Checked,,
+102.220.189.17:8080,HTTP,Nigeria,NG,🇳🇬,50,medium,No,Dotmac Technologies Limited,13258,Not Checked,,
