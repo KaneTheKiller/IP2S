@@ -1,6 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-51.161.54.150:443,HTTP_TLS,Colombia,CO,🇨🇴,0,low,No,OVH SAS,966,Unknown,,
 51.161.54.150:443,HTTP_TLS,Colombia,CO,🇨🇴,0,low,No,OVH SAS,902,Unknown,,
-158.247.125.5:9443,HTTP_TLS,Colombia,CO,🇨🇴,1,low,No,Oracle Corporation,2259,Not Checked,,
-149.88.111.1:443,HTTP_TLS,Colombia,CO,🇨🇴,47,medium,Yes,Datacamp Limited,2410,Not Checked,,
-149.88.111.1:443,HTTP_TLS,Colombia,CO,🇨🇴,47,medium,Yes,Datacamp Limited,2287,Not Checked,,
+51.161.54.150:443,HTTP_TLS,Colombia,CO,🇨🇴,0,low,No,OVH SAS,917,Unknown,,
+158.247.125.5:9443,HTTP_TLS,Colombia,CO,🇨🇴,1,low,No,Oracle Corporation,2053,Not Checked,,
+149.88.111.1:443,HTTP_TLS,Colombia,CO,🇨🇴,47,medium,Yes,Datacamp Limited,2289,Not Checked,,
+149.88.111.1:443,HTTP_TLS,Colombia,CO,🇨🇴,47,medium,Yes,Datacamp Limited,2170,Not Checked,,

@@ -1,7 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-38.165.231.133:9443,HTTP_TLS,Ecuador,EC,🇪🇨,0,low,Yes,IPXON Networks,1703,Unknown,,
-38.165.231.133:9443,HTTP_TLS,Ecuador,EC,🇪🇨,0,low,Yes,IPXON Networks,1859,Unknown,,
-38.165.231.71:9443,HTTP_TLS,Ecuador,EC,🇪🇨,0,low,Yes,IPXON Networks,1625,Unknown,,
-38.165.231.71:443,HTTP_TLS,Ecuador,EC,🇪🇨,0,low,Yes,IPXON Networks,1812,Unknown,,
-38.165.231.71:9443,HTTP_TLS,Ecuador,EC,🇪🇨,0,low,Yes,IPXON Networks,1777,Unknown,,
-38.165.231.71:443,HTTP_TLS,Ecuador,EC,🇪🇨,0,low,Yes,IPXON Networks,1675,Unknown,,
+38.165.231.133:9443,HTTP_TLS,Ecuador,EC,🇪🇨,0,low,Yes,IPXON Networks,1729,Unknown,,
+38.165.231.133:9443,HTTP_TLS,Ecuador,EC,🇪🇨,0,low,Yes,IPXON Networks,1871,Unknown,,
+38.165.231.71:9443,HTTP_TLS,Ecuador,EC,🇪🇨,0,low,Yes,IPXON Networks,1626,Unknown,,
+38.165.231.71:443,HTTP_TLS,Ecuador,EC,🇪🇨,0,low,Yes,IPXON Networks,1625,Unknown,,
+38.165.231.71:9443,HTTP_TLS,Ecuador,EC,🇪🇨,0,low,Yes,IPXON Networks,1779,Unknown,,
+38.165.231.71:443,HTTP_TLS,Ecuador,EC,🇪🇨,0,low,Yes,IPXON Networks,1855,Unknown,,

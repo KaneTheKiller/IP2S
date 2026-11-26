@@ -1,6 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-38.28.193.178:443,HTTP_TLS,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,1220,Not Checked,,
-190.211.102.2:443,HTTP_TLS,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,1802,Not Checked,,
-185.219.159.133:443,HTTP_TLS,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,2058,Not Checked,,
-104.36.250.241:443,HTTP_TLS,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,526,Not Checked,,
-104.36.250.241:443,HTTP_TLS,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,524,Not Checked,,
+107.152.33.202:8888,HTTP_TLS,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,1713,Not Checked,,
+193.176.84.25:9002,HTTP_TLS,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,2327,Not Checked,,
+104.36.250.218:443,HTTP_TLS,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,439,Not Checked,,
+104.36.250.66:443,HTTP_TLS,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,638,Not Checked,,
+104.36.250.66:443,HTTP_TLS,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,1476,Not Checked,,
+23.189.168.146:9443,HTTP_TLS,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,1017,Not Checked,,

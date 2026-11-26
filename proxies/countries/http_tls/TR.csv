@@ -1,5 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-95.0.151.178:443,HTTP_TLS,Turkey,TR,🇹🇷,0,low,No,Turk Telekomunikasyon Anonim Sirketi,2369,Not Checked,,
-95.0.151.178:443,HTTP_TLS,Turkey,TR,🇹🇷,0,low,No,Turk Telekomunikasyon Anonim Sirketi,2414,Not Checked,,
-149.50.208.46:443,HTTP_TLS,Turkey,TR,🇹🇷,47,medium,Yes,Datacamp Limited,2214,Not Checked,,
-149.50.208.46:443,HTTP_TLS,Turkey,TR,🇹🇷,47,medium,Yes,Datacamp Limited,2230,Not Checked,,
+95.0.151.178:443,HTTP_TLS,Turkey,TR,🇹🇷,0,low,No,Turk Telekomunikasyon Anonim Sirketi,2521,Not Checked,,
+95.0.151.178:443,HTTP_TLS,Turkey,TR,🇹🇷,0,low,No,Turk Telekomunikasyon Anonim Sirketi,2433,Not Checked,,
+149.50.208.46:443,HTTP_TLS,Turkey,TR,🇹🇷,47,medium,Yes,Datacamp Limited,2241,Not Checked,,
+149.50.208.46:443,HTTP_TLS,Turkey,TR,🇹🇷,47,medium,Yes,Datacamp Limited,2236,Not Checked,,
+149.50.208.46:9443,HTTP_TLS,Turkey,TR,🇹🇷,47,medium,Yes,Datacamp Limited,2294,Not Checked,,
+149.50.208.46:9443,HTTP_TLS,Turkey,TR,🇹🇷,47,medium,Yes,Datacamp Limited,2221,Not Checked,,
+149.50.208.33:9443,HTTP_TLS,Turkey,TR,🇹🇷,47,medium,Yes,Datacamp Limited,2271,Not Checked,,
+149.50.208.33:9443,HTTP_TLS,Turkey,TR,🇹🇷,47,medium,Yes,Datacamp Limited,2185,Not Checked,,
