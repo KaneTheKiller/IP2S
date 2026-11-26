@@ -1,2 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-222.111.130.73:8080,HTTP,South Korea,KR,🇰🇷,6,low,No,Korea Telecom,4667,Not Checked,,
+47.80.60.84:3128,HTTP,South Korea,KR,🇰🇷,0,low,No,Alibaba.com LLC,5324,Unknown,,
+54.117.6.131:41029,HTTP,South Korea,KR,🇰🇷,2,low,No,"Amazon.com, Inc.",5579,Not Checked,,
+54.117.6.131:41029,HTTP,South Korea,KR,🇰🇷,2,low,No,"Amazon.com, Inc.",3768,Not Checked,,

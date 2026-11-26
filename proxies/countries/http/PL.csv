@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.144.49.64:5443,HTTP,Poland,PL,🇵🇱,0,low,No,3hcloud,1389,Unknown,,
+78.9.234.55:8080,HTTP,Poland,PL,🇵🇱,0,low,No,Netia SA,12453,Not Checked,,

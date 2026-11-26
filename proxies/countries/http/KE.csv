@@ -1,4 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-41.79.9.229:8080,HTTP,Kenya,KE,🇰🇪,0,low,No,Frontier Optical Networks Ltd,8691,Unknown,,
-102.68.77.159:8080,HTTP,Kenya,KE,🇰🇪,5,low,No,Unwired Communications Ltd,10624,Not Checked,,
-197.248.18.97:8080,HTTP,Kenya,KE,🇰🇪,6,low,No,Safaricom Limited,16753,Not Checked,,
+41.79.9.229:8080,HTTP,Kenya,KE,🇰🇪,0,low,No,Frontier Optical Networks Ltd,15158,Not Checked,,
+102.213.248.13:8080,HTTP,Kenya,KE,🇰🇪,0,low,No,Optinode Group LLP,16044,Not Checked,,
+102.211.147.207:8082,HTTP,Kenya,KE,🇰🇪,4,low,No,Unwired Communications Ltd,14583,Not Checked,,
+197.248.210.41:8080,HTTP,Kenya,KE,🇰🇪,6,low,No,Safaricom Limited,4295,Not Checked,,
+197.248.210.41:8080,HTTP,Kenya,KE,🇰🇪,6,low,No,Safaricom Limited,2083,Not Checked,,
+102.210.40.125:8080,HTTP,Kenya,KE,🇰🇪,7,low,No,Skylink Networks,11579,Not Checked,,
+102.210.40.125:8080,HTTP,Kenya,KE,🇰🇪,7,low,No,Skylink Networks,8724,Not Checked,,
+41.209.57.199:80,HTTP,Kenya,KE,🇰🇪,8,low,No,MTN Business Kenya,16844,Not Checked,,
+102.216.85.18:8080,HTTP,Kenya,KE,🇰🇪,11,low,No,Surf Net Solutions Limited,19151,Not Checked,,

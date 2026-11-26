@@ -1,4 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-56.68.116.64:18398,HTTP,Malaysia,MY,🇲🇾,0,low,No,Amazon.com,2054,Unknown,,
-47.254.213.60:1081,HTTP,Malaysia,MY,🇲🇾,2,low,No,Alibaba Cloud LLC,1874,Not Checked,,
-47.254.213.60:1082,HTTP,Malaysia,MY,🇲🇾,2,low,No,Alibaba Cloud LLC,1948,Not Checked,,
+43.216.197.62:32659,HTTP,Malaysia,MY,🇲🇾,2,low,No,"Amazon.com, Inc.",2772,Not Checked,,
