@@ -1,2 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-168.253.92.93:10808,SOCKS5,South Africa,ZA,🇿🇦,0,low,No,CM Value Added Services (Pty) Ltd,7577,Not Checked,,
+16.28.29.244:57755,SOCKS5,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1231,Unknown,,
+102.211.132.75:1080,SOCKS5,South Africa,ZA,🇿🇦,0,low,No,Splizr Networks (Pty) Ltd,7093,Not Checked,,

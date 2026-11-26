@@ -1,6 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-58.32.16.138:7000,SOCKS5,China,CN,🇨🇳,0,low,No,CHINANET-SH,1434,Unknown,,
-116.172.234.154:1181,SOCKS5,China,CN,🇨🇳,0,low,No,China Unicom CHINA169 Network,6181,Not Checked,,
-47.107.48.145:8020,SOCKS5,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,5792,Not Checked,,
-116.172.234.154:1181,SOCKS5,China,CN,🇨🇳,0,low,No,China Unicom CHINA169 Network,4597,Not Checked,,
-61.155.3.26:8090,SOCKS5,China,CN,🇨🇳,0,low,No,Chinanet,2378,Not Checked,,
+218.77.50.79:6666,SOCKS5,China,CN,🇨🇳,0,low,No,Chinanet,3385,Not Checked,,

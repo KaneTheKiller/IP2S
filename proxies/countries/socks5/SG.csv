@@ -1,7 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-43.160.245.155:8080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,7404,Not Checked,,
-47.129.130.0:33790,SOCKS5,Singapore,SG,🇸🇬,4,low,No,Amazon Technologies Inc,3791,Not Checked,,
-47.129.105.10:3574,SOCKS5,Singapore,SG,🇸🇬,4,low,No,Amazon Technologies Inc,816,Not Checked,,
-128.199.202.122:1080,SOCKS5,Singapore,SG,🇸🇬,50,medium,No,"DigitalOcean, LLC",871,Not Checked,,
-128.199.202.122:1080,SOCKS5,Singapore,SG,🇸🇬,50,medium,No,"DigitalOcean, LLC",917,Not Checked,,
-104.248.151.220:57554,SOCKS5,Singapore,SG,🇸🇬,50,medium,No,"DigitalOcean, LLC",4200,Not Checked,,
+8.222.249.220:10809,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",9785,Not Checked,,
+43.160.245.155:8080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,12175,Not Checked,,
+128.199.202.122:1080,SOCKS5,Singapore,SG,🇸🇬,49,medium,No,"DigitalOcean, LLC",1001,Not Checked,,
+104.248.151.220:57554,SOCKS5,Singapore,SG,🇸🇬,49,medium,No,"DigitalOcean, LLC",7333,Not Checked,,
+128.199.202.122:1080,SOCKS5,Singapore,SG,🇸🇬,49,medium,No,"DigitalOcean, LLC",1000,Not Checked,,

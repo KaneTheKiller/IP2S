@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-129.222.108.201:1080,SOCKS5,Madagascar,MG,🇲🇬,7,low,No,Space Exploration Technologies Corporation,5383,Not Checked,,
-129.222.108.201:1080,SOCKS5,Madagascar,MG,🇲🇬,7,low,No,Space Exploration Technologies Corporation,6427,Not Checked,,
+129.222.108.201:1080,SOCKS5,Madagascar,MG,🇲🇬,7,low,No,Space Exploration Technologies Corporation,4116,Not Checked,,
