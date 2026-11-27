@@ -1,7 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-43.160.245.155:8080,SOCKS4,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,4540,Not Checked,,
-154.18.220.190:5678,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,Next Tier Trading Company Limited,1105,Not Checked,,
-154.18.220.190:5678,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,Next Tier Trading Company Limited,2228,Not Checked,,
-45.38.210.105:9050,SOCKS4,Singapore,SG,🇸🇬,0,low,No,2E TELEKOMUNIKASYON LTD,11358,Not Checked,,
-47.129.130.0:33790,SOCKS4,Singapore,SG,🇸🇬,4,low,No,Amazon Technologies Inc,813,Not Checked,,
-104.248.151.220:57554,SOCKS4,Singapore,SG,🇸🇬,49,medium,No,"DigitalOcean, LLC",9056,Not Checked,,
+154.18.220.190:5678,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,Next Tier Trading Company Limited,2028,Not Checked,,
+154.18.220.190:5678,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,Next Tier Trading Company Limited,4140,Not Checked,,
+31.57.178.174:1080,SOCKS4,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,2977,Not Checked,,

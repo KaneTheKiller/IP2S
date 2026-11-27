@@ -1,3 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.157.111.3:5678,SOCKS4,Estonia,EE,🇪🇪,0,low,No,SkyLive Telecom ldt,639,Unknown,,
-185.157.111.3:5678,SOCKS4,Estonia,EE,🇪🇪,0,low,No,SkyLive Telecom ldt,676,Unknown,,
+185.157.111.3:5678,SOCKS4,Estonia,EE,🇪🇪,0,low,No,SkyLive Telecom ldt,692,Unknown,,
+185.157.111.3:5678,SOCKS4,Estonia,EE,🇪🇪,0,low,No,SkyLive Telecom ldt,1713,Not Checked,,

@@ -1,7 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-87.228.228.101:4145,SOCKS4,Cyprus,CY,🇨🇾,2,low,No,CYTANET - Cyprus Telecommunications Authority,3818,Not Checked,,
-213.7.196.26:4153,SOCKS4,Cyprus,CY,🇨🇾,2,low,No,CYTANET - Cyprus Telecommunications Authority,681,Not Checked,,
-212.31.100.138:4153,SOCKS4,Cyprus,CY,🇨🇾,2,low,No,CYTANET - Cyprus Telecommunications Authority,3757,Not Checked,,
-87.228.228.101:4145,SOCKS4,Cyprus,CY,🇨🇾,2,low,No,CYTANET - Cyprus Telecommunications Authority,7824,Not Checked,,
-212.31.100.138:4153,SOCKS4,Cyprus,CY,🇨🇾,2,low,No,CYTANET - Cyprus Telecommunications Authority,1726,Not Checked,,
-213.7.196.26:4153,SOCKS4,Cyprus,CY,🇨🇾,2,low,No,CYTANET - Cyprus Telecommunications Authority,4782,Not Checked,,
+87.228.228.101:4145,SOCKS4,Cyprus,CY,🇨🇾,2,low,No,CYTANET - Cyprus Telecommunications Authority,5906,Not Checked,,
+212.31.100.138:4153,SOCKS4,Cyprus,CY,🇨🇾,2,low,No,CYTANET - Cyprus Telecommunications Authority,793,Not Checked,,
+87.228.228.101:4145,SOCKS4,Cyprus,CY,🇨🇾,2,low,No,CYTANET - Cyprus Telecommunications Authority,781,Not Checked,,
+212.31.100.138:4153,SOCKS4,Cyprus,CY,🇨🇾,2,low,No,CYTANET - Cyprus Telecommunications Authority,791,Not Checked,,

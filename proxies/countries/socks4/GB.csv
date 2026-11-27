@@ -1,4 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,561,Unknown,,
-192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,581,Unknown,,
-52.56.143.248:3128,SOCKS4,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,452,Not Checked,,
+192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,618,Unknown,,
+192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,608,Unknown,,
+52.56.143.248:3128,SOCKS4,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,527,Not Checked,,

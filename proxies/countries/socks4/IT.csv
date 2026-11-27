@@ -1,6 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.21.186.252:1080,SOCKS4,Italy,IT,🇮🇹,0,low,No,Planetel srl,495,Unknown,,
-91.192.25.37:80,SOCKS4,Italy,IT,🇮🇹,0,low,No,T&T Tecnologie e Telecomunicazioni Srl,750,Unknown,,
-91.192.25.37:80,SOCKS4,Italy,IT,🇮🇹,0,low,No,T&T Tecnologie e Telecomunicazioni Srl,787,Unknown,,
-46.21.186.252:1080,SOCKS4,Italy,IT,🇮🇹,0,low,No,Planetel srl,508,Unknown,,
-185.195.129.116:4153,SOCKS4,Italy,IT,🇮🇹,0,low,No,Wicomm SRLS,3759,Not Checked,,
+46.21.186.252:1080,SOCKS4,Italy,IT,🇮🇹,0,low,No,Planetel srl,590,Unknown,,
+91.192.25.158:4145,SOCKS4,Italy,IT,🇮🇹,0,low,No,T&T Tecnologie e Telecomunicazioni Srl,4637,Not Checked,,
+91.192.25.158:4145,SOCKS4,Italy,IT,🇮🇹,0,low,No,T&T Tecnologie e Telecomunicazioni Srl,6209,Not Checked,,
