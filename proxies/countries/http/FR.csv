@@ -1,6 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-191.44.91.30:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,12724,Not Checked,,
-37.187.109.70:10111,HTTP,France,FR,🇫🇷,15,low,No,OVH SAS,5049,Not Checked,,
-94.23.19.184:2912,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,16244,Not Checked,,
-51.68.102.5:3128,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,1188,Not Checked,,
-51.68.102.5:3128,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,1162,Not Checked,,
+51.68.102.5:3128,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,811,Not Checked,,

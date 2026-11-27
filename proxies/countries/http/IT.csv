@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-79.52.108.2:8081,HTTP,Italy,IT,🇮🇹,1,low,No,INTERBUSINESS,12958,Not Checked,,
-185.213.20.105:3128,HTTP,Italy,IT,🇮🇹,43,medium,No,"BrainStorm Network, Inc",4794,Not Checked,,
+80.211.24.177:3128,HTTP,Italy,IT,🇮🇹,0,low,No,Aruba S.p.A.,920,Unknown,,

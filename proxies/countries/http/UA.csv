@@ -1,4 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-62.122.207.173:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,Uteam LTD,1470,Unknown,,
-195.226.213.254:8888,HTTP,Ukraine,UA,🇺🇦,0,low,No,Private Enterprise KTV AIDA,10173,Not Checked,,
-91.210.117.184:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,Miratel Ltd,12016,Not Checked,,
+62.122.207.173:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,Uteam LTD,11934,Not Checked,,
+195.226.213.254:8888,HTTP,Ukraine,UA,🇺🇦,0,low,No,Private Enterprise KTV AIDA,13654,Not Checked,,
+62.122.207.173:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,Uteam LTD,10577,Not Checked,,
