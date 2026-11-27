@@ -1,6 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-70.38.101.182:40000,SOCKS5,Canada,CA,🇨🇦,0,low,No,Leaseweb Canada Inc.,600,Unknown,,
-70.38.101.182:40000,SOCKS5,Canada,CA,🇨🇦,0,low,No,Leaseweb Canada Inc.,3969,Not Checked,,
-38.49.210.79:40000,SOCKS5,Canada,CA,🇨🇦,35,medium,No,Rica Web Services,526,Not Checked,,
-159.203.61.169:1080,SOCKS5,Canada,CA,🇨🇦,52,medium,Yes,"DigitalOcean, LLC",412,Not Checked,,
-159.203.61.169:1080,SOCKS5,Canada,CA,🇨🇦,52,medium,Yes,"DigitalOcean, LLC",416,Not Checked,,
+56.112.92.32:40066,SOCKS5,Canada,CA,🇨🇦,15,low,No,Amazon.com,322,Not Checked,,
+159.203.61.169:1080,SOCKS5,Canada,CA,🇨🇦,52,medium,Yes,"DigitalOcean, LLC",177,Not Checked,,
+159.203.61.169:1080,SOCKS5,Canada,CA,🇨🇦,52,medium,Yes,"DigitalOcean, LLC",191,Not Checked,,
