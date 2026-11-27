@@ -1,5 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-123.108.164.103:443,HTTP_TLS,South Korea,KR,🇰🇷,0,low,No,HYUNDAI HCN Dongjak Cable Tv System Co.Ltd,2209,Not Checked,,
-123.108.164.102:443,HTTP_TLS,South Korea,KR,🇰🇷,0,low,No,HYUNDAI HCN Dongjak Cable Tv System Co.Ltd,2329,Not Checked,,
-123.108.164.103:443,HTTP_TLS,South Korea,KR,🇰🇷,0,low,No,HYUNDAI HCN Dongjak Cable Tv System Co.Ltd,2150,Not Checked,,
-210.207.52.13:443,HTTP_TLS,South Korea,KR,🇰🇷,1,low,No,LG DACOM Corporation,2260,Not Checked,,
+123.108.164.102:443,HTTP_TLS,South Korea,KR,🇰🇷,0,low,No,HYUNDAI HCN Dongjak Cable Tv System Co.Ltd,1994,Not Checked,,
+123.108.164.103:443,HTTP_TLS,South Korea,KR,🇰🇷,0,low,No,HYUNDAI HCN Dongjak Cable Tv System Co.Ltd,1988,Not Checked,,
+123.108.164.102:443,HTTP_TLS,South Korea,KR,🇰🇷,0,low,No,HYUNDAI HCN Dongjak Cable Tv System Co.Ltd,2155,Not Checked,,
+123.108.164.103:443,HTTP_TLS,South Korea,KR,🇰🇷,0,low,No,HYUNDAI HCN Dongjak Cable Tv System Co.Ltd,1913,Not Checked,,
+210.207.52.13:443,HTTP_TLS,South Korea,KR,🇰🇷,1,low,No,LG DACOM Corporation,1981,Not Checked,,
