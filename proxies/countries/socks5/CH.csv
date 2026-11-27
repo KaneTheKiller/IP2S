@@ -1,3 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-194.182.163.117:1080,SOCKS5,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,602,Unknown,,
-194.182.163.117:1080,SOCKS5,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,749,Unknown,,
+91.92.155.207:1080,SOCKS5,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,738,Unknown,,
+194.182.163.117:1080,SOCKS5,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,936,Unknown,,
+194.182.163.117:1080,SOCKS5,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,921,Unknown,,
+91.92.155.207:1080,SOCKS5,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,6395,Not Checked,,
