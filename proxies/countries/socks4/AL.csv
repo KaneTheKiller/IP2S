@@ -1,7 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-37.26.86.206:4145,SOCKS4,Albania,AL,🇦🇱,0,low,No,ATU,789,Unknown,,
-37.26.86.206:4145,SOCKS4,Albania,AL,🇦🇱,0,low,No,ATU,809,Unknown,,
-80.78.74.66:65530,SOCKS4,Albania,AL,🇦🇱,0,low,No,Vodafone Albania Sh.A.,767,Unknown,,
-80.78.78.106:65530,SOCKS4,Albania,AL,🇦🇱,0,low,No,Vodafone Albania Sh.A.,771,Unknown,,
-80.78.74.56:65530,SOCKS4,Albania,AL,🇦🇱,0,low,No,Vodafone Albania Sh.A.,1878,Not Checked,,
-80.78.78.106:65530,SOCKS4,Albania,AL,🇦🇱,0,low,No,Vodafone Albania Sh.A.,3921,Not Checked,,
+185.190.90.2:4145,SOCKS4,Albania,AL,🇦🇱,0,low,No,Lightnet Sh.p.k.,616,Unknown,,

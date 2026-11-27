@@ -1,4 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-154.18.220.190:5678,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,Next Tier Trading Company Limited,2028,Not Checked,,
-154.18.220.190:5678,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,Next Tier Trading Company Limited,4140,Not Checked,,
-31.57.178.174:1080,SOCKS4,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,2977,Not Checked,,
+31.57.178.174:1080,SOCKS4,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,4408,Not Checked,,
+13.215.184.250:36382,SOCKS4,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,903,Not Checked,,
+104.248.151.220:57554,SOCKS4,Singapore,SG,🇸🇬,49,medium,No,"DigitalOcean, LLC",6537,Not Checked,,

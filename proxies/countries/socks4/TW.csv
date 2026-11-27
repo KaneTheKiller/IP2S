@@ -1,5 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-220.132.41.160:1088,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",692,Unknown,,
-211.22.151.163:60909,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",5782,Not Checked,,
-220.132.41.160:1088,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",7850,Not Checked,,
-211.22.151.163:60909,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",2650,Not Checked,,
+125.227.169.85:38157,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",808,Unknown,,
+220.132.41.160:1088,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",1871,Not Checked,,
+211.22.151.163:60909,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",5932,Not Checked,,
+220.132.41.160:1088,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",3944,Not Checked,,
