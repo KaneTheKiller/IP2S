@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-88.218.92.64:3128,HTTP,Armenia,AM,🇦🇲,0,low,No,GNC-Alfa CJSC,10394,Unknown,,
+91.204.190.140:81,HTTP,Armenia,AM,🇦🇲,0,low,No,BioNet LLC,17419,Not Checked,,

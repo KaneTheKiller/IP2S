@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-147.236.181.86:50009,HTTP,Israel,IL,🇮🇱,0,low,No,ITC NG ltd,23952,Not Checked,,
-51.85.44.149:8631,HTTP,Israel,IL,🇮🇱,2,low,No,"Amazon.com, Inc.",1843,Not Checked,,
+51.85.44.162:30037,HTTP,Israel,IL,🇮🇱,2,low,No,"Amazon.com, Inc.",2655,Not Checked,,

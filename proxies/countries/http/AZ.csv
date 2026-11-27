@@ -1,2 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-213.154.2.210:3128,HTTP,Azerbaijan,AZ,🇦🇿,0,low,No,AZTELEKOM-ISP,1936,No,,0/7
+185.118.51.163:3128,HTTP,Azerbaijan,AZ,🇦🇿,0,low,No,AzFiberNet LLC,2178,Unknown,,
+185.129.0.78:8080,HTTP,Azerbaijan,AZ,🇦🇿,0,low,No,GSP LLC,7958,Unknown,,
+185.129.0.78:8080,HTTP,Azerbaijan,AZ,🇦🇿,0,low,No,GSP LLC,13650,Not Checked,,

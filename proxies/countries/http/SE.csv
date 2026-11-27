@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.39.105.157:8080,HTTP,Sweden,SE,🇸🇪,0,low,No,Stockholms Stadsnat AB,954,Unknown,,
-91.186.217.84:3128,HTTP,Sweden,SE,🇸🇪,30,medium,No,NetCrafters OU,10952,Not Checked,,
+46.59.120.87:81,HTTP,Sweden,SE,🇸🇪,2,low,No,Bahnhof Internet,8183,Not Checked,,

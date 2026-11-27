@@ -1,6 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-193.43.140.220:7890,HTTP,Syria,SY,🇸🇾,0,low,No,Syrian Telecom,7206,Unknown,,
-185.146.138.180:8080,HTTP,Syria,SY,🇸🇾,0,low,No,Abdul Rahman Mustafa trading as Alfateh Company for Communications,13222,Not Checked,,
-213.217.33.6:8080,HTTP,Syria,SY,🇸🇾,1,low,No,ISP-TARASSUL,13348,Not Checked,,
-89.43.134.88:8080,HTTP,Syria,SY,🇸🇾,20,medium,No,High Speed For Internet Services L.L.C,6608,Not Checked,,
-85.189.13.158:8080,HTTP,Syria,SY,🇸🇾,20,medium,No,High Speed For Internet Services L.L.C,12749,Not Checked,,
+185.225.42.81:8080,HTTP,Syria,SY,🇸🇾,0,low,No,sy-samaweb,19338,Not Checked,,
+195.123.190.37:8585,HTTP,Syria,SY,🇸🇾,0,low,No,Abdul Rahman Mustafa trading as Alfateh Company for Communications,11493,Not Checked,,
+193.43.145.248:8080,HTTP,Syria,SY,🇸🇾,0,low,No,Syrian Telecom,10562,Not Checked,,
+109.224.242.151:8080,HTTP,Syria,SY,🇸🇾,0,low,No,High Speed For Internet Services L.L.C,10637,Not Checked,,
+89.43.134.39:8080,HTTP,Syria,SY,🇸🇾,20,medium,No,High Speed For Internet Services L.L.C,7751,Not Checked,,
+85.189.13.158:8080,HTTP,Syria,SY,🇸🇾,20,medium,No,High Speed For Internet Services L.L.C,16872,Not Checked,,

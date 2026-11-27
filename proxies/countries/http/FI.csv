@@ -1,4 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-65.108.159.129:8081,HTTP,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,1601,Not Checked,,
-65.108.159.129:8081,HTTP,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,1930,Not Checked,,
-138.124.118.28:3128,HTTP,Finland,FI,🇫🇮,25,medium,No,Aeza Group LLC,1104,Not Checked,,
+185.40.7.206:3128,HTTP,Finland,FI,🇫🇮,0,low,No,"FIRST SERVER, SOCIEDAD LIMITADA",1282,Unknown,,
+185.40.7.206:3128,HTTP,Finland,FI,🇫🇮,0,low,No,"FIRST SERVER, SOCIEDAD LIMITADA",1223,Unknown,,
+65.108.159.129:8080,HTTP,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,2110,Not Checked,,
