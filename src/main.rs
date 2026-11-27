@@ -77,7 +77,8 @@ const SOCKS5_SOURCES: &[&str] = &[
     "https://raw.githubusercontent.com/fmw86/free-proxy-pool/refs/heads/main/socks5_residential.txt",
     "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/datacenter.txt",
     "https://raw.githubusercontent.com/solproxy/sol-free-proxy-list/refs/heads/main/residential.txt",
-    "hhttps://raw.githubusercontent.com/proxygenerator1/ProxyGenerator/main/MostStable/ALL.txt",
+    "https://raw.githubusercontent.com/proxygenerator1/ProxyGenerator/main/MostStable/ALL.txt",
+    "https://raw.githubusercontent.com/dpsserver/VPNCONFIG/refs/heads/main/socks5_alive.txt",
 ];
 
 const JSON_PROXY_SOURCES: &[&str] =
