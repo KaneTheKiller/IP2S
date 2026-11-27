@@ -1,5 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-14.225.19.28:8443,HTTP_TLS,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,3370,Not Checked,,
-14.225.71.128:8443,HTTP_TLS,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,3066,Not Checked,,
-14.225.71.128:8443,HTTP_TLS,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,2915,Not Checked,,
-14.225.19.28:8443,HTTP_TLS,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,3201,Not Checked,,
+14.225.71.128:8443,HTTP_TLS,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,3591,Not Checked,,
+14.225.19.28:8443,HTTP_TLS,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,3662,Not Checked,,
+14.225.19.28:8443,HTTP_TLS,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,3536,Not Checked,,
+14.225.71.128:8443,HTTP_TLS,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,3662,Not Checked,,

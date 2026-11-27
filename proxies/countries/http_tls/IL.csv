@@ -1,5 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.191.204.98:443,HTTP_TLS,Israel,IL,🇮🇱,0,low,Yes,Rachamim Aviel Twito,1559,Not Checked,,
-185.191.204.98:9443,HTTP_TLS,Israel,IL,🇮🇱,0,low,Yes,Rachamim Aviel Twito,1662,Not Checked,,
-185.191.204.98:443,HTTP_TLS,Israel,IL,🇮🇱,0,low,Yes,Rachamim Aviel Twito,1673,Not Checked,,
-185.191.204.98:9443,HTTP_TLS,Israel,IL,🇮🇱,0,low,Yes,Rachamim Aviel Twito,1559,Not Checked,,
+51.17.99.135:30209,HTTP_TLS,Israel,IL,🇮🇱,0,low,No,"Amazon.com, Inc.",6583,Not Checked,,
