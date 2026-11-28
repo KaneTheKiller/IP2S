@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-38.210.160.159:8080,HTTP,Costa Rica,CR,🇨🇷,3,low,No,"Comunicaciones Metropolitanas METROCOM, S.A.",17630,Not Checked,,
+38.210.160.159:8080,HTTP,Costa Rica,CR,🇨🇷,3,low,No,"Comunicaciones Metropolitanas METROCOM, S.A.",9628,Not Checked,,

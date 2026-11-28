@@ -1,6 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-2.188.229.150:7020,HTTP,Iran,IR,🇮🇷,0,low,No,Ofogh Koroush Chain Store Public Joint Stock,6942,Unknown,,
-77.104.76.230:9001,HTTP,Iran,IR,🇮🇷,0,low,No,Respina Networks & Beyond PJSC,3956,Unknown,,
-78.157.46.76:8090,HTTP,Iran,IR,🇮🇷,0,low,Yes,Dade Samane Fanava Company,8592,Unknown,,
-185.129.213.210:8080,HTTP,Iran,IR,🇮🇷,0,low,Yes,Pishgaman Toseeh Ertebatat Company (Private Joint Stock),4355,Unknown,,
-77.104.76.230:9001,HTTP,Iran,IR,🇮🇷,0,low,No,Respina Networks & Beyond PJSC,10411,Not Checked,,
+5.198.179.172:10800,HTTP,Iran,IR,🇮🇷,0,low,No,Iran Telecommunication Company PJS,7004,Unknown,,
+46.209.15.187:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Respina Networks & Beyond PJSC,6274,Unknown,,
+5.198.179.172:10800,HTTP,Iran,IR,🇮🇷,0,low,No,Iran Telecommunication Company PJS,9514,Unknown,,
+5.202.191.225:8080,HTTP,Iran,IR,🇮🇷,0,low,No,PTS-Network,16985,Not Checked,,

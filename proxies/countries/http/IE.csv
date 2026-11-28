@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.138.114.111:8080,HTTP,Ireland,IE,🇮🇪,0,low,No,Enet Telecommunications Networks Limited,10514,Not Checked,,
+108.131.152.118:52719,HTTP,Ireland,IE,🇮🇪,11,low,No,AT&T Corp.,2375,Not Checked,,

@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-193.126.225.110:8089,HTTP,Portugal,PT,🇵🇹,0,low,No,"NOS COMUNICACOES, S.A.",9850,Not Checked,,
+94.60.14.97:3128,HTTP,Portugal,PT,🇵🇹,1,low,No,Vodafone Portugal,3000,Not Checked,,

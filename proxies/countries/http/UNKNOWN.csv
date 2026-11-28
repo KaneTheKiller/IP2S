@@ -1,3 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-181.119.185.194:999,HTTP,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,7990,Not Checked,,
-38.7.195.84:999,HTTP,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,17025,Not Checked,,
+91.189.80.13:8090,HTTP,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,5854,Not Checked,,
+5.158.124.152:5555,HTTP,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,12054,Not Checked,,
+80.107.120.182:18080,HTTP,Unknown,N/A,🏳️,N/A,Unknown,Unknown,Unknown,22481,Not Checked,,

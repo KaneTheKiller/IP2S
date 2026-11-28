@@ -1,2 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-80.211.24.177:3128,HTTP,Italy,IT,🇮🇹,0,low,No,Aruba S.p.A.,920,Unknown,,
+185.191.106.0:8081,HTTP,Italy,IT,🇮🇹,0,low,No,Mywic Costumers,6537,Unknown,,
+159.253.99.62:4444,HTTP,Italy,IT,🇮🇹,0,low,No,Intercom s.r.l.,16676,Not Checked,,
+2.32.175.26:8080,HTTP,Italy,IT,🇮🇹,2,low,No,VODAFONE,13108,Not Checked,,

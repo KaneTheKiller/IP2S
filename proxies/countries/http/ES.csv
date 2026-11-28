@@ -1,3 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-80.78.128.94:8080,HTTP,Spain,ES,🇪🇸,0,low,No,"CLOUDWIFI, SL",7448,Unknown,,
-185.174.80.7:3128,HTTP,Spain,ES,🇪🇸,0,low,No,Nolu Network S.L.,7417,Unknown,,
+193.38.224.169:8081,HTTP,Spain,ES,🇪🇸,0,low,No,Citelia s.a.,13105,Unknown,,
+35.43.85.195:41582,HTTP,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",4057,Not Checked,,

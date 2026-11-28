@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-202.179.2.250:8080,HTTP,Mongolia,MN,🇲🇳,0,low,No,Mongolia Telecom,12609,Not Checked,,
-202.21.101.37:8088,HTTP,Mongolia,MN,🇲🇳,0,low,No,Mobinet LLC,14743,Not Checked,,
+202.21.115.178:8080,HTTP,Mongolia,MN,🇲🇳,0,low,No,Mobinet LLC,5284,Unknown,,

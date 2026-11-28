@@ -1,5 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-51.17.99.116:9087,HTTP,Israel,IL,🇮🇱,0,low,No,"Amazon.com, Inc.",3441,Unknown,,
-51.16.4.39:18989,HTTP,Israel,IL,🇮🇱,0,low,No,"Amazon.com, Inc.",1572,Unknown,,
-51.85.44.162:15789,HTTP,Israel,IL,🇮🇱,2,low,No,"Amazon.com, Inc.",3489,Not Checked,,
-51.85.44.162:30037,HTTP,Israel,IL,🇮🇱,2,low,No,"Amazon.com, Inc.",2788,Not Checked,,
+51.17.99.135:10801,HTTP,Israel,IL,🇮🇱,0,low,No,"Amazon.com, Inc.",1315,Unknown,,
+51.16.4.39:18497,HTTP,Israel,IL,🇮🇱,0,low,No,"Amazon.com, Inc.",1577,Unknown,,
+51.16.4.39:310,HTTP,Israel,IL,🇮🇱,0,low,No,"Amazon.com, Inc.",1582,Unknown,,
+51.16.4.39:6703,HTTP,Israel,IL,🇮🇱,0,low,No,"Amazon.com, Inc.",1573,Unknown,,

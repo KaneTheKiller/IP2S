@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-120.136.23.170:8800,HTTP,China,CN,🇨🇳,0,low,No,China Unicom Beijing Province Network,1783,Unknown,,
-120.136.23.176:8800,HTTP,China,CN,🇨🇳,0,low,No,China Unicom Beijing Province Network,1765,Unknown,,
+218.207.164.174:7890,HTTP,China,CN,🇨🇳,0,low,No,China Mobile communications corporation,5303,Unknown,,
