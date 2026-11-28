@@ -1,2 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-145.220.227.67:8080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,356,Unknown,,
+145.220.227.67:8080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,397,Unknown,,
+91.202.5.45:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SOLLUTIUM EU Sp z.o.o.,5166,Not Checked,,
+109.71.240.57:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,"Timeweb, LLP",1964,Not Checked,,
+78.40.198.4:8443,SOCKS4,Netherlands,NL,🇳🇱,2,low,No,Servers Tech Fzco,3789,Not Checked,,
+109.107.166.207:30385,SOCKS4,Netherlands,NL,🇳🇱,2,low,No,Servers Tech Fzco,3133,Not Checked,,
+128.199.37.92:1080,SOCKS4,Netherlands,NL,🇳🇱,49,medium,No,"DigitalOcean, LLC",6911,Not Checked,,

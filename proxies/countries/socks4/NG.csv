@@ -1,6 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-196.1.182.130:1080,SOCKS4,Nigeria,NG,🇳🇬,0,low,No,eStream Networks,4418,Not Checked,,
-41.75.84.86:4153,SOCKS4,Nigeria,NG,🇳🇬,44,medium,Yes,Main one Cable Company Nigeria Limited,2038,Not Checked,,
-154.113.172.58:5678,SOCKS4,Nigeria,NG,🇳🇬,44,medium,No,Main one Cable Company Nigeria Limited,5155,Not Checked,,
-154.113.170.1:5678,SOCKS4,Nigeria,NG,🇳🇬,44,medium,No,Main one Cable Company Nigeria Limited,8210,Not Checked,,
-102.36.231.77:1080,SOCKS4,Nigeria,NG,🇳🇬,89,high,No,Timeless Network Services Ltd,4577,Not Checked,,
+196.1.182.130:1080,SOCKS4,Nigeria,NG,🇳🇬,0,low,No,eStream Networks,1201,Not Checked,,
+196.1.182.130:1080,SOCKS4,Nigeria,NG,🇳🇬,0,low,No,eStream Networks,5346,Not Checked,,
+154.113.170.1:5678,SOCKS4,Nigeria,NG,🇳🇬,44,medium,No,Main one Cable Company Nigeria Limited,5189,Not Checked,,
+41.75.84.86:4153,SOCKS4,Nigeria,NG,🇳🇬,44,medium,Yes,Main one Cable Company Nigeria Limited,5156,Not Checked,,
+41.75.84.86:4153,SOCKS4,Nigeria,NG,🇳🇬,44,medium,Yes,Main one Cable Company Nigeria Limited,4973,Not Checked,,
+102.36.231.77:1080,SOCKS4,Nigeria,NG,🇳🇬,89,high,No,Timeless Network Services Ltd,1069,Not Checked,,

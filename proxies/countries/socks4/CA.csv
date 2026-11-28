@@ -1,5 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-24.37.245.42:51056,SOCKS4,Canada,CA,🇨🇦,0,low,No,Le Groupe Videotron Ltee,5441,Not Checked,,
-142.112.52.229:8443,SOCKS4,Canada,CA,🇨🇦,3,low,No,Bell Canada,3234,Not Checked,,
-50.67.100.178:8080,SOCKS4,Canada,CA,🇨🇦,5,low,No,Shaw Communications,11959,Not Checked,,
-35.183.29.62:48156,SOCKS4,Canada,CA,🇨🇦,9,low,No,Amazon Technologies Inc.,98,Not Checked,,
+24.37.245.42:51056,SOCKS4,Canada,CA,🇨🇦,0,low,No,Le Groupe Videotron Ltee,321,Unknown,,
+24.37.245.42:51056,SOCKS4,Canada,CA,🇨🇦,0,low,No,Le Groupe Videotron Ltee,2354,Not Checked,,
+69.70.74.118:1337,SOCKS4,Canada,CA,🇨🇦,3,low,No,Videotron Ltee,248,Not Checked,,
+69.70.74.118:1337,SOCKS4,Canada,CA,🇨🇦,3,low,No,Videotron Ltee,301,Not Checked,,
+50.67.100.178:8080,SOCKS4,Canada,CA,🇨🇦,5,low,No,Shaw Communications,5646,Not Checked,,
+35.183.29.62:48156,SOCKS4,Canada,CA,🇨🇦,9,low,No,Amazon Technologies Inc.,145,Not Checked,,
+35.183.78.223:2432,SOCKS4,Canada,CA,🇨🇦,9,low,No,Amazon Technologies Inc.,139,Not Checked,,
+35.183.29.62:25370,SOCKS4,Canada,CA,🇨🇦,9,low,No,Amazon Technologies Inc.,153,Not Checked,,

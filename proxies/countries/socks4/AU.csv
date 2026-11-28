@@ -1,2 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-16.176.232.186:36681,SOCKS4,Australia,AU,🇦🇺,2,low,No,"Amazon.com, Inc.",826,Not Checked,,
+16.51.53.116:15311,SOCKS4,Australia,AU,🇦🇺,0,low,No,Amazon.com,877,Not Checked,,
+16.51.53.116:24904,SOCKS4,Australia,AU,🇦🇺,0,low,No,Amazon.com,834,Not Checked,,
+16.176.232.186:36681,SOCKS4,Australia,AU,🇦🇺,2,low,No,"Amazon.com, Inc.",779,Not Checked,,

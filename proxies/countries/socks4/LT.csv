@@ -1,3 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-93.93.61.153:1080,SOCKS4,Republic of Lithuania,LT,🇱🇹,0,low,No,"AB ""Ogmios Centras""",3581,Not Checked,,
-81.7.112.174:4145,SOCKS4,Republic of Lithuania,LT,🇱🇹,0,low,No,"Private Limited Liability Company ""KRENA""",5732,Not Checked,,
+93.93.61.153:1080,SOCKS4,Republic of Lithuania,LT,🇱🇹,0,low,No,"AB ""Ogmios Centras""",3664,Not Checked,,
+81.7.112.174:4145,SOCKS4,Republic of Lithuania,LT,🇱🇹,0,low,No,"Private Limited Liability Company ""KRENA""",1648,Not Checked,,

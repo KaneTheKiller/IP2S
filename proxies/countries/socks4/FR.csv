@@ -1,2 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-5.180.147.89:1080,SOCKS4,France,FR,🇫🇷,0,low,Yes,FBW NETWORKS SAS,392,Unknown,,
+95.178.108.189:5678,SOCKS4,France,FR,🇫🇷,0,low,No,Eurofiber France SAS,467,Unknown,,
+77.221.152.59:1080,SOCKS4,France,FR,🇫🇷,0,low,No,Aeza Group LLC,11543,Not Checked,,
+77.221.152.59:1080,SOCKS4,France,FR,🇫🇷,0,low,No,Aeza Group LLC,9452,Not Checked,,
+176.142.245.127:9050,SOCKS4,France,FR,🇫🇷,2,low,No,BOUYGUES Telecom,15274,Not Checked,,

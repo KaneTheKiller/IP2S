@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-108.131.152.118:5050,SOCKS4,Ireland,IE,🇮🇪,11,low,No,AT&T Corp.,501,Not Checked,,
+108.131.152.118:5050,SOCKS4,Ireland,IE,🇮🇪,11,low,No,AT&T Corp.,372,Not Checked,,

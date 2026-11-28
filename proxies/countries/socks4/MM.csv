@@ -1,3 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-136.228.163.150:5678,SOCKS4,Myanmar,MM,🇲🇲,0,low,No,Myanma Post & Telecommunication,4271,Not Checked,,
-136.228.163.150:5678,SOCKS4,Myanmar,MM,🇲🇲,0,low,No,Myanma Post & Telecommunication,4297,Not Checked,,
+136.228.160.250:5678,SOCKS4,Myanmar,MM,🇲🇲,0,low,No,Myanma Post & Telecommunication,1296,Not Checked,,
+136.228.163.150:5678,SOCKS4,Myanmar,MM,🇲🇲,0,low,No,Myanma Post & Telecommunication,3326,Not Checked,,
+136.228.163.150:5678,SOCKS4,Myanmar,MM,🇲🇲,0,low,No,Myanma Post & Telecommunication,9142,Not Checked,,
+136.228.160.250:5678,SOCKS4,Myanmar,MM,🇲🇲,0,low,No,Myanma Post & Telecommunication,1242,Not Checked,,

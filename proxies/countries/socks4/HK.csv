@@ -1,9 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-47.239.140.6:80,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,2910,Not Checked,,
-47.239.140.6:443,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,8055,Not Checked,,
-45.192.98.172:1080,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Vapeline Technology,11037,Not Checked,,
-205.177.85.130:39593,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,"CDS Global Cloud Co., Ltd",3695,Not Checked,,
-165.154.20.187:10808,SOCKS4,Hong Kong,HK,🇭🇰,3,low,Yes,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,11663,Not Checked,,
-101.36.112.205:1081,SOCKS4,Hong Kong,HK,🇭🇰,3,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,6590,Not Checked,,
-101.36.112.205:1081,SOCKS4,Hong Kong,HK,🇭🇰,3,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1684,Not Checked,,
-103.136.250.154:1080,SOCKS4,Hong Kong,HK,🇭🇰,17,low,No,Kaopu Cloud HK Limited,2162,Not Checked,,
+43.198.78.37:37211,SOCKS4,Hong Kong,HK,🇭🇰,2,low,No,"Amazon.com, Inc.",778,Not Checked,,
+165.154.20.187:10808,SOCKS4,Hong Kong,HK,🇭🇰,3,low,Yes,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,12279,Not Checked,,
+165.154.20.187:10808,SOCKS4,Hong Kong,HK,🇭🇰,3,low,Yes,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,4491,Not Checked,,

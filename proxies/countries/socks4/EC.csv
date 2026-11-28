@@ -1,6 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-190.57.131.158:1080,SOCKS4,Ecuador,EC,🇪🇨,0,low,No,Puntonet S.A.,492,Unknown,,
-45.238.57.129:1080,SOCKS4,Ecuador,EC,🇪🇨,0,low,No,Instalacion De Sistemas EN Redes Insysred S.A.,4554,Not Checked,,
-200.105.252.170:5678,SOCKS4,Ecuador,EC,🇪🇨,0,low,No,Puntonet S.A,5376,Not Checked,,
-186.47.213.158:5678,SOCKS4,Ecuador,EC,🇪🇨,1,low,No,Corporacion Nacional De Telecomunicaciones - CNT EP,1651,Not Checked,,
-186.47.213.158:5678,SOCKS4,Ecuador,EC,🇪🇨,1,low,No,Corporacion Nacional De Telecomunicaciones - CNT EP,2906,Not Checked,,
+45.238.57.1:3629,SOCKS4,Ecuador,EC,🇪🇨,0,low,No,Instalacion De Sistemas EN Redes Insysred S.A.,455,Unknown,,
+190.57.131.158:1080,SOCKS4,Ecuador,EC,🇪🇨,0,low,No,Puntonet S.A.,7613,Not Checked,,
+181.113.59.187:33333,SOCKS4,Ecuador,EC,🇪🇨,1,low,No,Corporacion Nacional De Telecomunicaciones - CNT EP,2594,Not Checked,,
+181.113.59.187:33333,SOCKS4,Ecuador,EC,🇪🇨,1,low,No,Corporacion Nacional De Telecomunicaciones - CNT EP,1654,Not Checked,,
+186.47.213.158:5678,SOCKS4,Ecuador,EC,🇪🇨,1,low,No,Corporacion Nacional De Telecomunicaciones - CNT EP,5645,Not Checked,,
