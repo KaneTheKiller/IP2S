@@ -1,6 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-91.212.213.135:443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Proservice LLC,4722,Not Checked,,
-91.212.213.135:443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Proservice LLC,4068,Not Checked,,
-91.212.213.135:9443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Proservice LLC,3615,Not Checked,,
-195.54.178.210:443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Serv.Ge Network,2015,Not Checked,,
-195.54.178.210:443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Serv.Ge Network,2663,Not Checked,,
+91.212.213.135:443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Proservice LLC,2903,Not Checked,,
+91.212.213.135:443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Proservice LLC,2853,Not Checked,,
+91.212.213.135:9443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Proservice LLC,4876,Not Checked,,
+91.212.213.135:9443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Proservice LLC,4005,Not Checked,,
+195.54.178.210:443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Serv.Ge Network,2134,Not Checked,,
+195.54.178.210:443,HTTP_TLS,Georgia,GE,🇬🇪,0,low,Yes,Serv.Ge Network,2125,Not Checked,,
