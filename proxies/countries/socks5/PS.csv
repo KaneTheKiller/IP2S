@@ -1,2 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-93.184.5.129:1080,SOCKS5,Palestine,PS,🇵🇸,0,low,No,BCI Telecommunication & Advanced Technology Company,2029,Unknown,,
+93.184.5.121:1080,SOCKS5,Palestine,PS,🇵🇸,0,low,No,BCI Telecommunication & Advanced Technology Company,2417,Not Checked,,

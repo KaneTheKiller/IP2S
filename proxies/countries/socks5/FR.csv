@@ -1,5 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-82.180.146.251:10800,SOCKS5,France,FR,🇫🇷,0,low,No,Contabo Asia Private Limited,2166,Unknown,,
-82.180.146.251:10800,SOCKS5,France,FR,🇫🇷,0,low,No,Contabo Asia Private Limited,1399,Unknown,,
-82.21.200.222:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Association YORKHOST,11233,Not Checked,,
-82.21.200.223:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Association YORKHOST,11671,Not Checked,,
+82.180.146.251:10800,SOCKS5,France,FR,🇫🇷,0,low,No,Contabo Asia Private Limited,1401,Unknown,,
+82.180.146.251:10800,SOCKS5,France,FR,🇫🇷,0,low,No,Contabo Asia Private Limited,1309,Unknown,,
+82.21.200.222:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Association YORKHOST,14763,Not Checked,,
+82.21.200.141:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Association YORKHOST,2588,Not Checked,,
+82.21.200.56:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Association YORKHOST,10080,Not Checked,,
+82.21.200.149:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Association YORKHOST,5809,Not Checked,,
+82.21.200.221:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Association YORKHOST,2679,Not Checked,,
+82.21.200.154:1080,SOCKS5,France,FR,🇫🇷,0,low,No,Association YORKHOST,7830,Not Checked,,

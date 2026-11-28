@@ -1,2 +1,3 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-78.14.19.3:4877,SOCKS5,Mexico,MX,🇲🇽,0,low,No,Amazon.com,293,Unknown,,
+78.14.19.3:4877,SOCKS5,Mexico,MX,🇲🇽,0,low,No,Amazon.com,262,Unknown,,
+179.238.66.70:1080,SOCKS5,Mexico,MX,🇲🇽,11,low,No,Starlink Chile SPA,4917,Not Checked,,

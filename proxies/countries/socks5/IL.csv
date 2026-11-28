@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-93.184.8.22:1080,SOCKS5,Israel,IL,🇮🇱,0,low,No,BNET network,8327,Not Checked,,
-51.85.44.162:22160,SOCKS5,Israel,IL,🇮🇱,2,low,No,"Amazon.com, Inc.",913,Not Checked,,
+51.16.4.39:4097,SOCKS5,Israel,IL,🇮🇱,0,low,No,"Amazon.com, Inc.",724,Unknown,,

@@ -1,2 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-212.237.125.216:6969,SOCKS5,Iraq,IQ,🇮🇶,0,low,No,Kurdistan Net 4,6564,Not Checked,,
+130.255.94.32:5080,SOCKS5,Iraq,IQ,🇮🇶,0,low,No,Tarin General Trading and Setting Up Internet Device LTD,1322,Unknown,,
+37.237.228.113:1080,SOCKS5,Iraq,IQ,🇮🇶,0,low,No,EarthLink Ltd.,3616,Not Checked,,
+130.255.95.177:4080,SOCKS5,Iraq,IQ,🇮🇶,0,low,No,Tarin General Trading and Setting Up Internet Device LTD,2926,Not Checked,,
+130.255.94.32:5080,SOCKS5,Iraq,IQ,🇮🇶,0,low,No,Tarin General Trading and Setting Up Internet Device LTD,3402,Not Checked,,
+159.255.160.90:5080,SOCKS5,Iraq,IQ,🇮🇶,0,low,No,Tarin General Trading and Setting Up Internet Device LTD,2400,Not Checked,,
+130.255.95.177:4080,SOCKS5,Iraq,IQ,🇮🇶,0,low,No,Tarin General Trading and Setting Up Internet Device LTD,6563,Not Checked,,

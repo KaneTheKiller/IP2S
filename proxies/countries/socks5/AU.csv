@@ -1,3 +1,2 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-159.196.163.64:80,SOCKS5,Australia,AU,🇦🇺,4,low,No,Aussie Broadband,852,Not Checked,,
-168.138.9.147:1080,SOCKS5,Australia,AU,🇦🇺,5,low,No,Oracle Corporation,1953,Not Checked,,
+159.196.163.64:80,SOCKS5,Australia,AU,🇦🇺,4,low,No,Aussie Broadband,1025,Not Checked,,
